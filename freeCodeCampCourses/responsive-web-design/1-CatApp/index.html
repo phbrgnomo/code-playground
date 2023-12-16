@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <!-- Set the character encoding for the document -->
+    <meta charset="UTF-8">
+    <!-- Set the title of the webpage -->
+    <title>CatPhotoApp</title>
+</head>
+<body>
+    <!-- The main content of the webpage starts here -->
+    <main>
+    <!-- Main heading for the CatPhotoApp -->
+        <h1>CatPhotoApp</h1>
+        <!-- First section: Cat Photos -->
+        <section>
+            <!-- Heading for the Cat Photos section -->
+            <h2>Cat Photos</h2>
+            <!-- Link to cat photos gallery opening in a new tab -->
+            <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
+            <!-- Image of a cute cat with a link to the gallery -->
+            <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+        </section>
+        <!-- Second section: Cat Lists -->
+        <section>
+            <!-- Heading for the Cat Lists section -->
+            <h2>Cat Lists</h2>
+            <!-- List of things cats love -->
+            <h3>Things cats love:</h3>
+            <ul>
+                <!-- List items of things cats love -->
+                <li>cat nip</li>
+                <li>laser pointers</li>
+                <li>lasagna</li>
+            </ul>
+            <!-- Image of lasagna with a caption -->
+            <figure>
+                <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+                <figcaption>Cats <em>love</em> lasagna.</figcaption>  
+            </figure>
+            <!-- List of things cats hate -->
+            <h3>Top 3 things cats hate:</h3>
+            <ol>
+                <!-- Ordered list items of things cats hate -->
+                <li>flea treatment</li>
+                <li>thunder</li>
+                <li>other cats</li>
+            </ol>
+            <!-- Image of cats with a caption -->
+            <figure>
+                <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
+                <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
+            </figure>
+        </section>
+        <!-- Third section: Cat Form -->
+        <section>
+            <!-- Heading for the Cat Form section -->
+            <h2>Cat Form</h2>
+            <!-- Form for submitting cat photos with action URL -->
+            <form action="https://freecatphotoapp.com/submit-cat-photo">
+            <fieldset>
+                <!-- Legend for the indoor-outdoor radio buttons -->
+                <legend>Is your cat an indoor or outdoor cat?</legend>
+                <!-- Radio buttons for indoor and outdoor options -->
+                <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
+                <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+            </fieldset>
+            <fieldset>
+                <!-- Legend for the cat's personality checkboxes -->
+                <legend>What's your cat's personality?</legend>
+                <!-- Checkboxes for different cat personalities -->
+                <input id="loving" type="checkbox" name="personality" value="loving" checked> <label for="loving">Loving</label>
+                <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
+                <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
+            </fieldset>
+            <!-- Input field for cat photo URL with placeholder and required attribute -->
+            <input type="text" name="catphotourl" placeholder="cat photo URL" required>
+            <!-- Submit button for the form -->
+            <button type="submit">Submit</button>
+            </form>
+        </section>
+    </main>
+    <!-- Footer section with copyright information -->
+    <footer>
+        <!-- Copyright information with a link to freeCodeCamp.org -->
+        <p>
+            No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
+        </p>
+    </footer>
+    </body>
+</html>

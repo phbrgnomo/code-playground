@@ -1,0 +1,13 @@
+version: '3'
+services:
+  dev-service:
+    build:
+      context: .
+      dockerfile: pythondev.Dockerfile
+      args:
+        USER_NAME: ${USER_NAME} # Add user info on a .dev file
+        USER_ID: ${USER_ID}
+        GROUP_ID: ${GROUP_ID}
+    container_name: dev
+    volumes:
+      - .:/home/${USER_NAME}/code_env
