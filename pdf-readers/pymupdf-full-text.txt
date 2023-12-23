@@ -1,0 +1,1556 @@
+1
+Peso %
+Valor de Mercado 
+(VM)
+Cota
+Valor 
+Patrimonial 
+(VP)
+VM/VP
+Yield
+Anualizado
+Por Ticker
+Segmento
+Ticker
+Recomendação
+Nome
+(R$ milhões)
+(R$)
+(R$/Cota)
+%
+No mês
+Em 12m
+DY 12m
+12,50%
+Recebíveis
+KNCR11
+COMPRA
+Kinea Rendimentos 
+5.812
+102
+101
+101%
+0,5%
+16,8%
+13,0%
+9,50%
+Recebíveis
+MCCI11
+COMPRA
+Mauá Capital Recebíveis
+1.494
+88
+94
+94%
+-4,5%
+5,6%
+11,6%
+7,50%
+Recebíveis
+CPTS11
+COMPRA
+Capitânia Securities
+2.511
+8
+9
+89%
+1,7%
+5,2%
+9,2%
+7,50%
+Recebíveis
+XPCI11
+COMPRA
+XP Crédito Imobiliário
+747
+86
+91
+94%
+-0,6%
+16,0%
+13,1%
+5,00%
+Recebíveis
+RBRR11
+COMPRA
+RBR High Grade
+1.320
+88
+94
+94%
+0,9%
+10,2%
+8,7%
+2,50%
+Híbrido
+HGRU11
+COMPRA
+CSHG Renda Urbana
+2.476
+135
+123
+109%
+4,7%
+22,3%
+7,9%
+5,00%
+Híbrido
+TGAR11
+RESTRITO
+TG Ativo Real 
+1.666
+121
+113
+107%
+1,7%
+14,7%
+14,5%
+10,00%
+Ativos Logísticos
+LVBI11
+COMPRA
+VBI Logística
+1.617
+114
+117
+97%
+-2,5%
+20,7%
+8,9%
+5,00%
+Ativos Logísticos
+BRCO11
+RESTRITO
+Bresco Logística 
+1.751
+119
+121
+98%
+-2,2%
+29,9%
+8,8%
+15,00%
+Lajes Corporat.
+PVBI11
+RESTRITO
+VBI Prime Offices
+1.313
+101
+102
+99%
+-1,3%
+20,8%
+8,1%
+2,50%
+Lajes Corporat.
+TEPP11
+COMPRA
+Tellus Properties 
+394
+93
+95
+98%
+4,1%
+35,3%
+8,5%
+14,00%
+Shoppings
+XPML11
+COMPRA
+XP Malls
+3.422
+111
+112
+99%
+2,5%
+25,2%
+9,0%
+4,00%
+Fundo de Fundos
+RBRF11
+COMPRA
+RBR Alpha
+1.043
+76
+86
+88%
+-0,2%
+21,3%
+8,5%
+Fundo
+Performance
+Maria Fernanda Violatti
+Carteira Recomendada de Fundos Imobiliários
+A Carteira Recomendada de Fundos Imobiliários é composta por 13 ativos com caráter mais defensivo. Portanto, é orientada para investidores com perfil aderente
+à renda variável.
+Objetivo da carteira: O objetivo da Carteira de Fundos Imobiliários XP é superar o desempenho do IFIX, índice que mede a performance dos principais fundos
+imobiliários listados em bolsa, no horizonte de longo prazo. A composição da carteira é analisada mensalmente pelos analistas da equipe, e ela pode ou não sofrer
+alterações a cada mês.
+Desempenho da carteira vs. IFIX: A carteira recomendada da XP apresentou performance de -0,17% em novembro, abaixo do IFIX, que apresentou performance
+positiva de 0,66% no mês. Adicionalmente, a carteira apresentou um dividend yield médio mensal de 0,84% (10,1% de dividend yield anualizado).
+Alterações do mês Alteramos a composição da carteira para o mês de dezembro. Visando captar assimetrias de mercado, aumentamos marginalmente a
+participação no fundo MCCI11 (+2,0%) e XPML11 (+3,5%) e reduzimos em XPCI11 (-2,0%) e RBRF11 (-3,5%).
+Dezembro 2023
+Fundos Listados e FIIs
+maria.violatti@xpi.com.br
+Carteira Fundamentalista
+Research FIIs
+Fontes: Economatica; XP Research / Data base: 30/11/23    Performance calculada até dia 30/11/23  *Os fundos destacados encontram-se restritos por compliance. 
+30 de novembro de 2023
+Índice
+01
+Resumo Carteira
+03
+Carteira Recomendada XP
+04
+Visão Setorial
+05
+Performance Carteira
+06
+Teses de Investimento
+Peso %
+Valor de Mercado (VM) 
+Cota
+Valor Patrimonial (VP) 
+VM/VP
+Yield Anualizado
+Por Ticker
+Segmento
+Ticker
+Recomendação
+Nome
+(R$ milhões)
+(R$)
+(R$/Cota)
+%
+No mês
+Em 12m
+DY 12m
+12,50%
+Recebíveis
+KNCR11
+COMPRA
+Kinea Rendimentos 
+5.812
+102
+101
+101%
+0,5%
+16,8%
+13,0%
+9,50%
+Recebíveis
+MCCI11
+COMPRA
+Mauá Capital Recebíveis
+1.494
+88
+94
+94%
+-4,5%
+5,6%
+11,6%
+7,50%
+Recebíveis
+CPTS11
+COMPRA
+Capitânia Securities
+2.511
+8
+9
+89%
+1,7%
+5,2%
+9,2%
+7,50%
+Recebíveis
+XPCI11
+COMPRA
+XP Crédito Imobiliário
+747
+86
+91
+94%
+-0,6%
+16,0%
+13,1%
+5,00%
+Recebíveis
+RBRR11
+COMPRA
+RBR High Grade
+1.320
+88
+94
+94%
+0,9%
+10,2%
+8,7%
+2,50%
+Híbrido
+HGRU11
+COMPRA
+CSHG Renda Urbana
+2.476
+135
+123
+109%
+4,7%
+22,3%
+7,9%
+5,00%
+Híbrido
+TGAR11
+RESTRITO
+TG Ativo Real 
+1.666
+121
+113
+107%
+1,7%
+14,7%
+14,5%
+10,00%
+Ativos Logísticos
+LVBI11
+COMPRA
+VBI Logística
+1.617
+114
+117
+97%
+-2,5%
+20,7%
+8,9%
+5,00%
+Ativos Logísticos
+BRCO11
+RESTRITO
+Bresco Logística 
+1.751
+119
+121
+98%
+-2,2%
+29,9%
+8,8%
+15,00%
+Lajes Corporat.
+PVBI11
+RESTRITO
+VBI Prime Offices
+1.313
+101
+102
+99%
+-1,3%
+20,8%
+8,1%
+2,50%
+Lajes Corporat.
+TEPP11
+COMPRA
+Tellus Properties 
+394
+93
+95
+98%
+4,1%
+35,3%
+8,5%
+14,00%
+Shoppings
+XPML11
+COMPRA
+XP Malls
+3.422
+111
+112
+99%
+2,5%
+25,2%
+9,0%
+4,00%
+Fundo de Fundos
+RBRF11
+COMPRA
+RBR Alpha
+1.043
+76
+86
+88%
+-0,2%
+21,3%
+8,5%
+Fundo
+Performance 
+Dezembro/2023
+Descrição da carteira A carteira recomendada mantém sua maior alocação em fundos imobiliários
+com caráter mais defensivos e que buscam captar assimetrias de mercado.
+Características da carteira A Carteira Recomendada de Fundos Imobiliários é composta por 13
+ativos recomendados pelos nossos analistas do Research XP.
+Diversificação da carteira A distribuição entre os segmentos segue com as alocações em
+Recebíveis (42,0%), Lajes Corporativas (17,5%), Logística (15,0%), Shoppings (14,0%), Fundos de
+Fundos (4,0%), e Híbridos (7,5%).
+Alterações do mês Alteramos a composição da carteira para o mês de dezembro. Visando captar
+assimetrias de mercado, aumentamos marginalmente a participação no fundo MCCI11 (+2,0%) e
+XPML11 (+3,5%) e reduzimos em XPCI11 (-2,0%) e RBRF11 (-3,5%).
+Carteira Recomendada de Fundos Imobiliários
+Exposição por segmento
+Figura 1: Diversificação setorial
+Figura 1: Carteira Recomendada de Fundos Imobiliários: Estimativas e recomendações
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023
+30 de novembro de 2023
+Recebíveis; 42,00%
+Lajes Corporat.; 
+17,50%
+Ativos Logísticos; 
+15,00%
+Shoppings; 14,00%
+Híbridos ; 7,50%
+Fundo de Fundos; 
+4,00%
+4
+XP RESEARCH
+Research FIIs
+Fontes: XP Research /  Sempre consulte seu assessor de Investimentos
+• Bom rendimento e menor risco de perda de patrimônio, são uma ótima alternativa para diversificação e mitigação de risco, principalmente em períodos de alta volatilidade do mercado. Dado o 
+cenário macroeconômico com perspectiva de inflação em patamares ainda elevados no curto, continuamos vendo retornos atrativos nos fundos de recebíveis em razão dos índices de inflação e 
+taxa Selic. Acreditamos que os fundos de recebíveis indexados em CDI+ devem se beneficiar do cenário macroeconômico com a taxa de juros Selic em patamares mais elevados. 
+Fundos de Recebíveis (42,0% da carteira)
+• A menor volatilidade é justificada pelo tempo curto de construção, reduzindo o risco de execução e volatilidade nos preços. Por isso, a renda trazida por esses ativos apresenta estabilidade e um 
+menor risco no curto prazo. Adicionalmente, esse segmento apresenta uma perspectiva relativamente favorável no curto prazo devido a manutenção do crescimento do e-commerce, que desde 
+a pandemia vem demandando volume crescente de ativos logísticos localizados próximos às grandes regiões metropolitanas.
+Ativos logísticos (15,0% da carteira)
+• Fundos Imobiliários híbridos são fundos que possuem investimento em mais de uma classe de ativos. Essa característica se torna interessante dado que os fundos híbridos tendem a ter menor 
+nível de risco, dada sua diversificação de tipo de ativos e inquilinos.
+Híbridos (7,5% da carteira)
+• Acreditamos que as alterações e redimensionamentos dos escritórios relacionados às mudanças provocadas pela pandemia já foram realizadas. Apesar disso, nas regiões premium da cidade 
+de São Paulo, os imóveis de classes A+ e A apresentaram resiliência. Observamos que o mercado de escritórios, para se manter competitivo, aderiu a flexibilização nas condições comerciais das 
+locações, criando um cenário favorável ao inquilino. A retomada do segmento como um todo está associada à recuperação econômica, para que então a vacância da cidade reduza e vejamos 
+movimentos positivos em relação aos preços dos aluguéis. Adicionalmente, os fundamentos de longo prazo são sólidos para essa classe de ativo.
+Lajes Corporativas (17,5% da carteira)
+• Os Fundos de fundos apostam em explorar ineficiências de mercado e assimetrias de risco/retorno entre os FIIs listados em bolsa, além de usar sua expertise para balancear a exposição de 
+suas carteiras a segmentos específicos, de acordo com o momento e perspectiva de cada setor. Atualmente, o segmento vem apresentando ponto de entrada atrativo.
+Fundo de Fundos (4,0% da carteira)
+• Dado um cenário macroeconômico mais desafiador, mantemos nossa preferência em fundos com portfólios compostos de shoppings dominantes e orientados para alta renda, por se 
+demonstrarem mais resilientes em períodos desafiadores. Observamos que os indicadores operacionais de alguns shoppings já se aproximam dos valores observados pré-pandemia. Para o 
+longo prazo esperamos uma expansão moderada dos resultados do setor, em linha com nosso cenário macroeconômico para o Brasil.
+Shoppings (14,0% da carteira)
+Visão Setorial
+Racional por Segmento
+30 de novembro de 2023
+5
+XP RESEARCH
+Research FIIs
+4,7%
+4,1%
+2,5%
+1,7%
+1,7%
+0,9%
+0,5%
+-0,2%
+-0,6%
+-1,3%
+-2,2%
+-2,5%
+-4,5%
+HGRU11
+TEPP11
+XPML11
+TGAR11
+CPTS11
+RBRR11
+KNCR11
+RBRF11
+XPCI11
+PVBI11
+BRCO11
+LVBI11
+MCCI11
+Data
+dez-22
+jan-23
+fev-23
+mar-23
+abr-23
+mai-23
+jun-23
+jul-23
+ago-23
+set-23
+out-23
+nov-23
+No ano
+12 Meses
+Carteira Recomendada
+-0,5%
+-2,1%
+0,6%
+1,2%
+3,7%
+0,9%
+6,1%
+2,0%
+2,0%
+1,8%
+-1,8%
+-0,2%
+18,5%
+18,0%
+Dividendos
+0,8%
+1,0%
+0,9%
+0,9%
+0,9%
+0,9%
+0,9%
+0,9%
+0,8%
+0,8%
+0,8%
+0,8%
+10,1%
+11,0%
+IFIX
+0,0%
+-1,6%
+-0,5%
+-1,7%
+3,5%
+5,4%
+4,7%
+1,3%
+0,5%
+0,2%
+-2,0%
+0,7%
+10,8%
+10,8%
+CDI 
+1,0%
+1,1%
+0,9%
+1,1%
+0,9%
+1,1%
+1,1%
+1,0%
+1,1%
+0,9%
+0,9%
+0,9%
+11,6%
+12,7%
+*Devido mudança na data de execução da carteira, a performance tanto da carteira como do IFIX foi calculada até o dia  30/11/2023. 
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023
+A carteira recomendada da XP apresentou performance de -0,17% em novembro, abaixo do IFIX, que apresentou performance de 0,66% no mês. Adicionalmente, a carteira apresentou um dividend yield médio
+mensal de 0,8% (10,1% de dividend yield anualizado). Com isso, a carteira acumula alta de 18,5% no ano (acima do índice IFIX em 7,7 p.p.).
+Figura 2: Desempenho de cada ativo - Novembro 2023
+Figura 3: Performance IFIX vs. IBOV vs. CDI
+Performance Carteira
+Desempenho desde o início
+30 de novembro de 2023
+Desempenho de Novembro de 2023
+(Base 100)
+60
+70
+80
+90
+100
+110
+120
+nov-22 dez-22
+jan-23
+fev-23
+mar-23 abr-23
+mai-23 jun-23
+jul-23
+ago-23 set-23
+out-23
+IFIX
+CDI
+IBOV
+6
+XP RESEARCH
+Research FIIs
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 101,80
+1,08%
+R$ 1,11
+out/23
+R$ 101,28
+1,10%
+R$ 1,10
+set/23
+R$ 98,72
+1,20%
+R$ 1,20
+ago/23
+R$ 96,30
+1,16%
+R$ 1,15
+jul/23
+R$ 94,50
+1,18%
+R$ 1,15
+jun/23
+R$ 92,19
+1,30%
+R$ 1,24
+mai/23
+R$ 88,75
+1,04%
+R$ 1,00
+abr/23
+R$ 89,44
+1,25%
+R$ 1,22
+mar/23
+R$ 89,21
+1,01%
+R$ 1,00
+fev-23
+R$ 89,60
+1,21%
+R$ 1,20
+KNCR11
+COMPRA
+Preço-Alvo (R$/cota)
+101
+Preço Atual (R$/cota)
+101,80
+Upside (%)
+-1%
+DY anualizado
+13,0%
+Gestor
+Kinea Investimentos
+Taxa de Gestão (a.a.)
+1,08% a.a.
+Patrimônio Líquido (R$ mi)
+5.765
+Liquidez diária média(R$mil/dia)
+12.222
+Informações Adicionais 
+Recebíveis
+Características do fundo O KNCR11 é o segundo maior fundo do segmento de recebíveis, com patrimônio líquido de R$
+5,77 bilhões. 105% do patrimônio líquido está alocado em CRIs, 0% em LCI e 2,4% em outros instrumentos de caixa. O
+fundo possui atualmente 7,4% do seu PL em operações compromissadas reversas lastreadas em CRI. Essas operações
+compromissadas permitem maior flexibilidade e dinamismo na alocação de recursos.
+Portfólio 97,2% da alocação do fundo está indexada ao CDI, 2,3% à Selic e 0,5% indexado à inflação, IPCA. A carteira
+indexada ao CDI tem yield médio de 2,52%, com prazo médio de 5,4 anos, enquanto a pequena parte da carteira (0,6%)
+indexada ao IPCA, tem yield médio de 13,00% e prazo médio de 3,6 anos. O fundo é, portanto, majoritariamente alocado
+em títulos pós-fixados e com baixo risco de crédito, e tende a se beneficiar em momentos como o atual de taxa de juros
+ainda em patamares elevados e inflação em tendência de queda. O fundo também possui operações compromissadas
+reversas lastreadas nos CRIs de seu portfólio, usadas para trazer flexibilidade ao fundo para novas alocações.
+O portfólio do fundo possui atualmente aproximadamente 67 CRIs, com boa diversificação setorial: 56% no setor de
+escritórios, 26,7% em shoppings, 11,7% no setor residencial e 5,6% no setor logístico. Apesar do maior peso no setor de
+escritórios, a maioria desses CRIs são baseados em imóveis de alto padrão nos estados de SP e RJ, mitigando os riscos
+do setor. Os certificados de recebíveis imobiliários apresentam em sua maior parte caráter mais “high grade”, ou seja,
+títulos com devedores que apresentam menor risco de crédito. Além disso, o fundo apresentou uma das menores
+volatilidades do segmento de FIIs de recebíveis nos últimos 12 meses, associado a um dos maiores retornos desse grupo
+durante o mesmo período.
+Nossa Visão e Recomendação Acreditamos que o fundo está posicionado com um portfólio que deve proporcionar níveis
+ainda favoráveis de rendimentos durante o atual período de altas taxas de juros, com patamar relativamente menor de
+risco de crédito e risco de mercado quando comparado aos seus pares.
+Kinea Rendimentos Imobiliários (KNCR11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 08/11/2023 
+30 de novembro de 2023
+Tese de Investimento O Kinea Rendimentos Imobiliários – FII é dedicado ao investimento em ativos de renda fixa de
+natureza Imobiliária, especialmente em Certificados de Recebíveis Imobiliários (CRI).
+Clique aqui para saber mais sobre a nossa tese para KNCR11
+7
+XP RESEARCH
+Research FIIs
+XPCI11
+COMPRA
+Preço-Alvo (R$/cota)
+91
+Preço Atual (R$/cota)
+85,90
+Upside (%)
+6%
+DY anualizado
+13,1%
+Gestor
+XP Asset
+Taxa de Gestão (a.a.)
+1,0% a.a.
+Patrimônio Líquido (R$ mi)
+795
+Liquidez diária média(R$mil/dia)
+2.115
+Informações Adicionais 
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 85,90
+1,09%
+R$ 0,95
+out/23
+R$ 86,39
+1,09%
+R$ 0,95
+set/23
+R$ 86,08
+1,03%
+R$ 0,90
+ago/23
+R$ 84,27
+1,15%
+R$ 1,00
+jul/23
+R$ 83,17
+1,03%
+R$ 0,91
+jun/23
+R$ 83,36
+1,11%
+R$ 0,93
+mai/23
+R$ 78,24
+1,10%
+R$ 0,87
+abr/23
+R$ 73,84
+1,15%
+R$ 0,95
+mar/23
+R$ 75,74
+1,25%
+R$ 1,00
+fev-23
+R$ 72,22
+1,22%
+R$ 0,96
+Recebíveis
+Características do fundo O fundo está atualmente alocado em 91,5% de seu patrimônio líquido na estratégia de
+investimento direto em CRIs, 3,6% em alocações em FIIs, e 4,9% em caixa.
+Portfólio Na estratégia de crédito, seu portfólio é composto de CRIs com boa qualidade, credores com risco de crédito
+saudável e estrutura de garantias sólidas, com foco em originação e estruturação próprias, e exposição balanceada em
+diferentes segmentos: Residencial (19,1%); Comercial (45,9%) e Crédito Corporativo (34,9%). O LTV médio da carteira atual
+é de 53%, valor em linha com a média dos FIIs de recebíveis.
+A carteira do fundo está concentrada em ativos indexados à inflação, que são 71,9% do portfólio atual e têm uma taxa
+média de mercado de IPCA + 7,25%. A carteira indexada ao CDI responde por 28,1% do portfólio, e a taxa média de
+mercado desses ativos é de CDI + 2,77%. Dentro os 3,6% alocados em FIIs, seu portfólio representa, de acordo com o
+relatório gerencial do fundo, uma estratégia de alocação tática e otimização de caixa: 100% da carteira atual é de FIIs de
+recebíveis, com os quais o fundo busca fundos de maior resiliência, com composição majoritária de papéis high grade e
+middle risk. No mês de outubro, segundo o relatório gerencial, a gestão do fundo alienou sua posição no XPML11, o que
+gerou um ganho de capital durante o mês de R$815 mil. Adicionalmente, o Fundo encerrou o mês com alavancagem de
+R$ 41,09 milhões (5,17% do PL) de forma a honrar novas aquisições, com taxa acima do custo da operação, gerando valor
+ao Fundo.
+Nossa Visão e Recomendação Com a desaceleração da inflação, esperamos que o portfólio indexado ao IPCA do fundo
+traga rendimentos nominais menores no curto prazo que os observados nos últimos meses. Com a sua carteira atual,
+entretanto, acreditamos que o fundo deve ter rendimentos reais ainda em patamares favoráveis, além de negociar
+atualmente com desconto de aproximadamente 6% em relação ao seu valor patrimonial.
+XP Crédito Imobiliário (XPCI11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 28/11/2023
+30 de novembro de 2023
+Tese de Investimento O XP Crédito Imobiliário FII tem como objetivo auferir ganhos pela aplicação de seus recursos em
+ativos financeiros com lastro imobiliário, tais como CRI, Debênture, LCI, LH e cotas de FIIs.
+Clique aqui para saber mais sobre a nossa tese para XPCI11
+8
+XP RESEARCH
+Research FIIs
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 7,90
+0,78%
+R$ 0,06
+out/23
+R$ 7,77
+0,62%
+R$ 0,05
+set/23
+R$ 8,60
+0,90%
+R$ 0,08
+ago/23
+R$ 8,57
+1,04%
+R$ 0,09
+jul/23
+R$ 8,26
+1,03%
+R$ 0,09
+jun/23
+R$ 8,16
+1,05%
+R$ 0,09
+mai/23
+R$ 7,68
+1,07%
+R$ 0,08
+abr/23
+R$ 7,09
+0,94%
+R$ 0,07
+mar/23
+R$ 7,05
+0,96%
+R$ 0,08
+fev-23
+R$ 7,25
+0,97%
+R$ 0,08
+CPTS11
+COMPRA
+Preço-Alvo (R$/cota)
+9
+Preço Atual (R$/cota)
+7,90
+Upside (%)
+12%
+DY anualizado
+9,3%
+Gestor
+Capitânia
+Taxa de Gestão (a.a.)
+1,05% a.a.
+Patrimônio Líquido (R$ mi)
+2.809
+Liquidez diária média(R$mil/dia)
+9.628
+Informações Adicionais 
+Recebíveis
+Características do fundo Atualmente, o fundo possui 70,3% de seu patrimônio líquido em Certificados de Recebíveis
+Imobiliários (CRIs), 27,5% alocado em cotas de outros fundos imobiliários e 2,2% em Caixa.
+Portfólio A maior parte da carteira de CRIs (98,65%) é indexada ao IPCA, e sua taxa média de aquisição é de IPCA + 6,69%,
+a parcela de 1,35% indexada em CDI possui taxa média de aquisição de CDI + 3,80%. A duration média da carteira é de 5,5
+anos e LTV médio de 61,77% . O portfólio de CRIs tem, portanto, um perfil mais defensivo, de proteção contra a inflação, e
+a gestora tem foco em ativos high grade. O fundo tem um histórico positivo em sua estratégia de obtenção de ganhos de
+capital com a negociação dos CRIs, e os gestores buscam atualmente uma reciclagem do portfólio com o
+desinvestimento em ativos de taxas menores no mercado secundário. A maior exposição da carteira de crédito é no setor
+Logístico/Industrial, com 44,2%. A carteira de FIIs do fundo também tem volume relevante e é uma característica
+diferencial do CPTS11 atualmente. Os segmentos com maior alocação dessa carteira são Lajes Corporativas (29,8%),
+Renda Urbana (26,7%) e Logística (18,1%), de modo que seus rendimentos constituem uma diversificação importante das
+receitas do fundo. Apesar do impacto recente em seu dividend yield, acreditamos que o fundo retome os patamares
+anteriores. Além de maior volatilidade no valor de suas cotas no mercado secundário no mês de outubro, o resultado do
+fundo de setembro foi menor devido impacto do pagamento da última parcela do FII GTIS11 que foi incorporado pelo
+HGLG11. No entanto, os recursos recebidos foram alocados em ativos que segundo os gestores, devem contribuir para
+melhorar o resultado do fundo no médio e longo prazo. Segundo o relatório gerencial, a realização de novos giros na
+carteira de CRIs resultaram em prejuízo no mês de outubro, mas a movimento está em linha com a estratégia do fundo e
+pretende aplicar este caixa em taxas mais altas melhorando o carrego e potencial de ganho de capital.
+Nossa Visão e Recomendação Ainda que conte, historicamente, com volatilidade e beta (em relação ao IFIX) reduzidos
+comparativamente aos seus pares, esperamos que o fundo tenha rendimentos favoráveis com seu portfólio atual ao
+longo dos próximos anos. Além disso, considerado o histórico da sua equipe de gestão, possivelmente deve contar com
+importantes ganhos com a negociação de seus ativos.
+Capitânia Securities FII (CPTS11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 21/11/2023 
+Clique aqui para saber mais sobre a nossa tese para CPTS11
+Tese de Investimento O Fundo tem o objetivo de proporcionar rentabilidade aos seus Cotistas através da aquisição
+preponderantemente de ativos de origem imobiliária, conforme a política de investimento definida no Capítulo IV de seu
+Regulamento.
+30 de novembro de 2023
+9
+XP RESEARCH
+Research FIIs
+RBRR11
+COMPRA
+Preço-Alvo (R$/cota)
+94
+Preço Atual (R$/cota)
+87,68
+Upside (%)
+7%
+DY anualizado
+8,9%
+Gestor
+RBR Asset
+Taxa de Gestão (a.a.)
+1,0% a.a.
+Patrimônio Líquido (R$ mi)
+1.409
+Liquidez diária média(R$mil/dia)
+3.409
+Informações Adicionais 
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 87,68
+0,74%
+R$ 0,65
+out/23
+R$ 86,94
+0,73%
+R$ 0,65
+set/23
+R$ 88,11
+0,72%
+R$ 0,65
+ago/23
+R$ 88,56
+0,76%
+R$ 0,70
+jul/23
+R$ 89,11
+0,88%
+R$ 0,80
+jun/23
+R$ 87,74
+1,11%
+R$ 1,00
+mai/23
+R$ 86,06
+1,12%
+R$ 1,00
+abr/23
+R$ 83,75
+1,16%
+R$ 1,00
+mar/23
+R$ 80,19
+1,10%
+R$ 0,95
+fev-23
+R$ 79,63
+1,14%
+R$ 0,95
+Recebíveis
+Características do fundo De acordo com a gestora RBR, a estratégia Core de investimentos do fundo, que atualmente
+concentra 94% do patrimônio líquido, é pautada em operações de Certificados de Recebíveis Imobiliários high grade (com
+rating interno mínimo A), exclusivamente restritos a investidores profissionais (“off-market”) e com preferência a
+originações e estruturações próprias. A estratégia Tática do fundo (atualmente 11% do PL) inclui outros CRIs high grade e
+outros FIIs de CRIs. A estratégia de liquidez (atualmente 1% do PL) inclui ativos de renda fixa. Atualmente, 85% do PL
+investido em CRIs é composto por operações ancoradas pela RBR, ou seja, operações originadas, estruturadas e/ou
+investidas em mais de 50% da emissão.
+Portfólio A carteira total de CRIs do fundo está 71% indexada ao IPCA, com taxa média de IPCA+7,6%, enquanto 12% se
+encontra alocada em CRIs indexados ao IGP-M, com taxa média de IGP-M+5,4%. O fundo também detém 16% em ativos
+indexados ao CDI, com taxa média de CDI+2,7% e com grande parte com datas de vencimento após 2030. O LTV médio do
+portfólio gira em torno de 61%, e a carteira está dividida entre risco de crédito corporativo (74%), risco de locações
+multidevedor (25%) e Carteira Pulverizada (1%). As garantias estão localizadas, em sua maioria, na região Sudeste (90,4%
+da carteira), com concentração de 53% em ativos localizados em regiões prime da cidade de São Paulo. Em termos de
+setor econômico, 41% dos CRIs são de Lajes Corporativas, 32% de Galpões Logísticos, 23% Residenciais e 3% de
+Shoppings. Nos últimos 12 meses, o fundo teve volatilidade e dividend yield em linha com a média dos FIIs de Recebíveis
+analisados, e um retorno acima dos fundos do segmento. Adicionalmente, o fundo anunciou o encerramento da oitava
+emissão de cotas, na qual foram subscritas aproximadamente 1,6 milhão de cotas, perfazendo o montante total
+aproximado de R$152,9 milhões.
+Nossa Visão e Recomendação Acreditamos que, com sua carteira de CRIs atual, o fundo deve obter rendimentos reais
+favoráveis ao longo dos próximos anos, se beneficiando também com a originação e estruturação próprias de CRIs e de
+sua diversificação entre indexadores, tipos de riscos de crédito e setores econômicos dos ativos.
+RBR High Grade (RBRR11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 31/10/2023
+Tese de Investimento O fundo RBR Rendimento High Grade é um fundo imobiliário do segmento de recebíveis com
+objetivo de auferir rendimentos e ganho de capital na aquisição de CRIs.
+Clique aqui para saber mais sobre a nossa tese para RBRR11
+30 de novembro de 2023
+10
+XP RESEARCH
+Research FIIs
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 88,09
+0,97%
+R$ 0,90
+out/23
+R$ 92,28
+0,95%
+R$ 0,90
+set/23
+R$ 93,38
+0,96%
+R$ 0,90
+ago/23
+R$ 91,52
+0,97%
+R$ 0,90
+jul/23
+R$ 89,08
+1,03%
+R$ 0,95
+jun/23
+R$ 88,28
+1,06%
+R$ 0,95
+mai/23
+R$ 84,68
+1,12%
+R$ 0,95
+abr/23
+R$ 79,27
+1,12%
+R$ 0,95
+mar/23
+R$ 78,41
+1,13%
+R$ 0,95
+fev-23
+R$ 76,79
+1,10%
+R$ 0,95
+MCCI11
+COMPRA
+Preço-Alvo (R$/cota)
+94
+Preço Atual (R$/cota)
+88,09
+Upside (%)
+6%
+DY anualizado
+11,6%
+Gestor
+Mauá Capital
+Taxa de Gestão (a.a.)
+1,0% a.a.
+Patrimônio Líquido (R$ mi)
+1.593
+Liquidez diária média(R$mil/dia)
+3.573
+Informações Adicionais 
+Recebíveis
+Características do fundo O MCCI11 possui 85% do PL alocado em CRIs e em fundos de CRIs. O patrimônio alocado em
+CRIs apresenta uma taxa de marcação a mercado de IPCA + 8,1% (92% dos CRIs). O restante do PL do fundo está alocado
+11% em FIIs, 3% em crédito estruturado e 1% em caixa.
+Portfólio A estratégia do fundo consiste em manter um portfólio composto de certificados de recebíveis imobiliários de
+boa qualidade de crédito e risco. Os CRIs apresentam em sua maior parte caráter mais “high grade”, ou seja, títulos com
+devedores que apresentam menores riscos de inadimplência.
+Além disso, o fundo possui boa diversificação na distribuição setorial do seu portfólio: 34% comercial, 33% logístico, 18%
+varejo essencial, 13% residencial e 2% em hotel. Em relação à distribuição geográfica, possui maior exposição em São
+Paulo (73%). Por fim, o fundo anunciou que não identificou nenhuma inadimplência advinda dos credores que provoque
+interrupção do fluxo de pagamentos até o momento.
+O fundo apresentou maior volatilidade no mercado secundário, no entanto, o time de gestão informou adimplência em
+100% dos CRIs em seu portfólio. Além disso, nos últimos meses tem realizado sua distribuição de dividendos conforme
+guidance.
+Nossa Visão e Recomendação Atualmente, o fundo está negociando próximo ao seu valor patrimonial (VM/VP de 0,94x),
+patamar que consideramos atrativo. O dividend yield anualizado é de 11,6%, e os pagamentos de dividendos de R$ 0,90 por
+cotas.
+FII Mauá Capital Recebíveis Imobiliários (MCCI11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 29/11/2023
+Tese de Investimento O Fundo tem por objetivo auferir rendimento e ganho de capital aos investidores através da
+aquisição de CRI. No mínimo 67% de seu patrimônio deve ser investido nesse tipo de ativo.
+Clique aqui para saber mais sobre a nossa tese para MCCI11
+30 de novembro de 2023
+11
+XP RESEARCH
+Research FIIs
+HGRU11
+COMPRA
+Preço-Alvo (R$/cota)
+136
+Preço Atual (R$/cota)
+134,50
+Upside (%)
+1%
+DY anualizado
+7,9%
+Gestor
+CSHG
+Taxa de Gestão (a.a.)
+0,9% a.a.
+Patrimônio Líquido (R$ mi)
+2.272
+Liquidez diária média(R$mil/dia)
+6.073
+Informações Adicionais 
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 134,50
+0,66%
+R$ 0,85
+out/23
+R$ 128,45
+0,62%
+R$ 0,85
+set/23
+R$ 136,75
+0,64%
+R$ 0,85
+ago/23
+R$ 130,01
+0,64%
+R$ 0,85
+jul/23
+R$ 129,15
+1,06%
+R$ 1,40
+jun/23
+R$ 127,65
+0,68%
+R$ 0,85
+mai/23
+R$ 120,02
+0,70%
+R$ 0,85
+abr/23
+R$ 116,90
+0,74%
+R$ 0,85
+mar/23
+R$ 108,79
+0,74%
+R$ 0,85
+fev-23
+R$ 107,12
+0,69%
+R$ 0,82
+Híbridos
+Características do fundo O CSHG Renda Urbana é um fundo imobiliário híbrido com alocações em ativos de varejo, tanto
+supermercados (47,1% da receita contratada), quanto de vestuário (17,8%), educacional (31,9%) e outros (3%). O
+patrimônio líquido do fundo está alocado majoritariamente em imóveis físicos, mas também em cotas do fundo SPVJ11,
+FIIs e CRIs (que, somados, representam 24,29% do patrimônio do fundo).
+Portfólio O fundo possui portfólio com ativos resilientes, como imóveis no segmento de supermercados, além disso,
+possui alta concentração em contratos atípicos (80,9% da receita contratada), vencimentos 99,6% concentrados após
+2025 e inquilinos com boa qualidade de crédito (como, por exemplo, Carrefour, Pernambucanas, YDUQS, entre outros).
+Como informado no relatório do mês de outubro, o resultado da receita total do mês foi de R$32,1 milhões e teve impacto
+extraordinário da venda das lojas pernambucanas de Osasco/SP conforme o fato relevante divulgado no dia 17/10/2023.
+O fundo recebeu na data de divulgação do fato R$37 milhões e com isso o negócio gerou um lucro em regime de caixa de
+aproximadamente R$12,9 milhões equivalente a aproximadamente R$0,7/cota. Durante o mês de outubro o fundo não
+realizou novas locações, portanto a taxa de vacância física se manteve em 0,9%.
+Nossa Visão e Recomendação Avaliamos que o fundo detém bons ativos, com contratos de aluguel a preços favoráveis e
+prazos longos, trazendo boa previsibilidade para as receitas do fundo. Acreditamos também que a gestora vem obtendo
+sucesso com seu processo de reciclagem do portfólio, conseguindo negociar bons preços para seus ativos.
+CSHG Renda Urbana (HGRU11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 09/11/2023 
+Tese de Investimento O CSHG Renda Urbana tem por objeto a exploração de empreendimentos imobiliários urbanos de
+uso institucional e comercial, que potencialmente gerem renda por meio de alienação, locação ou arrendamento,
+priorizando a aquisição de empreendimentos imobiliários institucionais ou comerciais que não sejam lajes corporativas,
+shopping centers ou da área de logística. O Fundo é destinado a investidores em geral e tem prazo de duração
+indeterminado.
+Clique aqui para saber mais sobre a nossa tese para HGRU11
+30 de novembro de 2023
+14
+XP RESEARCH
+Research FIIs
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 113,54
+0,74%
+R$ 0,87
+out/23
+R$ 116,42
+0,67%
+R$ 0,79
+set/23
+R$ 117,03
+0,68%
+R$ 0,79
+ago/23
+R$ 114,12
+0,67%
+R$ 0,79
+jul/23
+R$ 114,03
+0,66%
+R$ 0,78
+jun/23
+R$ 113,50
+0,72%
+R$ 0,76
+mai/23
+R$ 101,35
+0,75%
+R$ 0,76
+abr/23
+R$ 97,34
+0,79%
+R$ 0,75
+mar/23
+R$ 89,39
+0,76%
+R$ 0,72
+fev-23
+R$ 88,31
+0,77%
+R$ 0,75
+LVBI11
+COMPRA
+Preço-Alvo (R$/cota)
+130
+Preço Atual (R$/cota)
+113,54
+Upside (%)
+14%
+DY anualizado
+8,9%
+Gestor
+VBI Asset
+Taxa de Gestão (a.a.)
+1,3% a.a.
+Patrimônio Líquido (R$ mi)
+1.671
+Liquidez diária média(R$mil/dia)
+3.193
+Informações Adicionais 
+Ativos Logísticos
+Características do fundo A gestora VBI Real Estate é 100% focada no setor imobiliário brasileiro e possui vasta experiencia
+no segmento, com mais de 10 anos de atuação no mercado imobiliário do Brasil. O fundo possui patrimônio líquido de R$
+1,399 bilhões, sendo que atualmente 96,2% do PL está alocado em ativos alvo e 3,0% mantido em caixa.
+Portfólio Atualmente, o portfólio do fundo possui 10 empreendimentos, que somam mais de 479 mil m² de ABL e vacância
+física de 0%. O portfólio do fundo conta com ativos com localização estratégica nos principais polos logísticos do país.
+Segundo o fato relevante divulgado no dia 31/10/23, o fundo informou que recebeu o aluguel da Sequóia, locatária do Ativo
+Extrema referente a competência de agosto com vencimento em setembro. Dessa forma, o resultado do distribuível,
+relativo à competência de setembro de 2023, poderá ser impactado positivamente em R$0,04/cota. Adicionalmente, o
+fundo realizou a 4ª Emissão, na qual foram subscritas um total aproximado de 2,468 milhões de cotas, perfazendo o
+montante aproximado de R$285,8 milhões. Parte do valor captado foi direcionado, conforme fato relevante divulgado no
+dia 16/10/23, para recompra antecipada de créditos imobiliários, representado por CCIs, pelo valor aproximado de R$152,2
+milhões. O fundo realizou, segundo o fato relevante do dia 01/11/2023, o seu primeiro desinvestimento de ativos. A
+transação foi referente ao ativo Guarulhos. A alienação teve valor total de venda de R$94 milhões que deveram ser pago
+ao fundo R$60 milhões à vista (já recebido) e R$34 milhões pago em duas parcelas iguais, uma em janeiro e outra em
+julho de 2024. Segundo o fundo, o lucro distribuível da operação será equivalente a 1,67/cota
+Nossa Visão e Recomendação O fundo possui boa pulverização de inquilinos em diferentes setores (Ambev, DHL,
+Magazine Luiza, Dia%, Amazon, IBL Logística e outros), e acreditamos que os mesmos são empresas de grande porte e
+consolidadas em seus segmentos de atuação. Entendemos que a tese do fundo está baseada em boa gestão, ativos bens
+localizados e alto padrão construtivo.
+VBI Logística (LVBI11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 13/11/2023 
+Tese de Investimento O fundo tem como objetivo a obtenção de renda e ganho de capital, através do investimento de, no
+mínimo, dois terços do seu patrimônio líquido diretamente em imóveis ou direitos reais sobre imóveis do segmento
+logístico ou industrial, bem como indiretamente, através de ações ou cotas de sociedades de propósito específico, cotas
+de fundos imobiliários e cotas de Fundos de Investimento em Participações.
+Clique aqui para saber mais sobre a nossa tese para LVBI11
+30 de novembro de 2023
+16
+XP RESEARCH
+Research FIIs
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 93,23
+0,71%
+R$ 0,64
+out/23
+R$ 89,58
+0,63%
+R$ 0,58
+set/23
+R$ 90,75
+0,65%
+R$ 0,58
+ago/23
+R$ 87,09
+0,66%
+R$ 0,58
+jul/23
+R$ 86,13
+0,92%
+R$ 0,81
+jun/23
+R$ 84,81
+0,68%
+R$ 0,55
+mai/23
+R$ 77,44
+0,71%
+R$ 0,52
+abr/23
+R$ 69,84
+0,77%
+R$ 0,51
+mar/23
+R$ 62,69
+0,75%
+R$ 0,50
+fev-23
+R$ 62,79
+0,71%
+R$ 0,49
+TEPP11
+COMPRA
+Preço-Alvo (R$/cota)
+101
+Preço Atual (R$/cota)
+93,23
+Upside (%)
+8%
+DY anualizado
+8,5%
+Gestor
+Tellus Investimentos
+Taxa de Gestão (a.a.)
+0,95% a.a.
+Patrimônio Líquido (R$ mi)
+401
+Liquidez diária média(R$mil/dia)
+1.348
+Informações Adicionais 
+Lajes Corporativas
+Características do fundo O Tellus Properties FII é um fundo de investimento imobiliário gerido pela Tellus Gestão e
+Consultoria de Investimentos Ltda., e tem por objetivo a obtenção de renda, mediante aplicação de recursos em lajes
+corporativas.
+Portfólio O fundo possui atualmente 4 imóveis em seu portfólio que somam aproximadamente 35.583 m² de área. Os
+ativos são: Ed. Torre Sul, Cond. São Luiz, Ed. Passarelli, e Ed. Fujitsu, todos localizados na cidade de São Paulo e com
+classificação A no Ed. Torre Sul e os demais classificados como B. Além disso, 98% da receita de aluguel do fundo possui
+vencimento após 2025. O fundo possui boa diversificação por setor de atividade do inquilino, com exposição de 30% de
+sua receita em empresas de serviços, 24% de tecnologia, 14% de saúde, 17% financeiro, 5% comércio, entre outros. A
+vacância financeira é de 1,03%, já a física é de 0%, após a celebração do novo contrato de locação no Edifício Torre Sul, o
+contrato passou a ter vigência em outubro. Segundo o fato relevante publicado no dia 25/10/2023 o fundo teve sucesso
+na ação contra uma antiga locatária do Edifício Passarelli, para recebimento de aproximadamente R$839,2 mil. Ademais,
+o fundo recebeu
+aproximadamente R$2,5 milhões em razão da conclusão da última fase da operação de venda dos
+conjuntos do Edifício Timbaúba. De acordo com o fundo, a última fase da operação resultará em um ganho de capital de
+R$0,04. O fundo também aumentou a sua participação no Edifício Passarelli com a aquisição do conjunto 113.
+Apesar da boa localização dos ativos do fundo, os mesmos possuem qualidade relativamente inferior a outros ativos em
+suas respectivas regiões. No entanto, a estratégia do fundo está associada ao potencial de melhora de sua qualidade
+via retrofit, e, de fato, a equipe de gestão tem adotado práticas de revitalização.
+Nossa Visão e Recomendação O fundo está negociando com desconto em relação ao seu valor patrimonial (98% P/VP), e
+seu último dividend yield anualizado foi de 8,5%. Devido à boa localização dos ativos temos recomendação do papel para
+COMPRA, com preço alvo de R$ 101.
+Tellus Properties (TEPP11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 08/11/2023 
+Tese de Investimento O fundo tem objetivo de proporcionar aos Cotistas a valorização e a rentabilidade de suas
+Cotas, conforme a política de investimento, preponderantemente, por meio de investimentos imobiliários de longo
+prazo
+Clique aqui para saber mais sobre a nossa tese para TEPP11
+30 de novembro de 2023
+17
+XP RESEARCH
+Research FIIs
+XPML11
+COMPRA
+Preço-Alvo (R$/cota)
+112
+Preço Atual (R$/cota)
+111,04
+Upside (%)
+1%
+DY anualizado
+9,3%
+Gestor
+XP Asset
+Taxa de Gestão (a.a.)
+0,75% a.a.
+Patrimônio Líquido (R$ mi)
+3.456
+Liquidez diária média(R$mil/dia)
+12.831
+Informações Adicionais 
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 111,04
+0,78%
+R$ 0,85
+out/23
+R$ 108,28
+0,77%
+R$ 0,85
+set/23
+R$ 109,07
+0,77%
+R$ 0,85
+ago/23
+R$ 108,02
+0,79%
+R$ 0,84
+jul/23
+R$ 102,80
+0,79%
+R$ 0,83
+jun/23
+R$ 101,12
+0,80%
+R$ 0,81
+mai/23
+R$ 96,41
+0,79%
+R$ 0,81
+abr/23
+R$ 97,16
+0,84%
+R$ 0,80
+mar/23
+R$ 89,22
+0,79%
+R$ 0,78
+fev-23
+R$ 91,76
+0,79%
+R$ 0,77
+Shoppings
+Características do fundo O fundo possui uma carteira de ativos distribuída em: 74,9% alocado em imóveis, 2,5% em cotas
+de outros FIIs, 2,9% em CRIs Conversíveis, e 19,6% mantido em caixa.
+Portfólio O portfólio do fundo é composto por 17 shopping centers, que juntos somam uma área bruta locável de
+aproximadamente 520 mil m² e 2.500 lojas. A ABL própria do fundo soma 135 mil m², alocada em sua maior parte em
+shoppings dominantes. Além disso, o fundo possui boa exposição em shoppings direcionados para a alta renda e
+entendemos que essa combinação é favorável. Por fim, o portfólio conta com boa diversificação geográfica com
+alocações por região: Sudeste (64%); Nordeste (25%); Norte (9%); Sul (2%) e de administração por percentual do ABL: JHSF
+(37%); Allos (30%); Ancar Ivanhoe (14%); Gazit (10%); Argo (6%); Iguatemi S.A. (2%); e SYN (1%).
+Os indicadores operacionais, como vendas mesmas lojas e aluguéis mesmas lojas, apresentaram queda em relação aos
+observados em 2022. As vendas totais por metro quadrado cresceram 10,7% assim como NOI por metro quadrado
+cresceu 0,6% quando comparados com o mesmo período de 2022, do outro lado, a inadimplência líquida foi de 0,6%. Já a
+vacância reduziu em 0,2 p.p. em relação ao mês de agosto totalizando 4,1% em setembro. Segundo fato relevante
+divulgado em nov/23, o fundo assinou o contrato de compra e venda para aquisição da fração ideal de 10% do Plaza Sul
+Shopping, o que aumenta a participação do fundo para 20%. Diante da aprovação da transação, o fundo realizou o
+pagamento da primeira parcela de R$30 milhões no dia 21 de novembro de 2023 e realizará o pagamento da segunda
+parcela de R$30 milhões após 12 meses com correção do CDI. Adicionalmente, o fundo concluiu a aquisição da fração
+ideal de 8% do Praia de Belas Shopping Center (Porto Alegre/RS) pelo valor aproximado de R$60,4 milhões que deverão ser
+pagos em duas parcelas iguais (50% a vista e 50% em 29 de maio de 2024 com correção do IPCA). Esta aquisição
+simboliza um aumento da diversificação geográfica do fundo, visto que ela foi a primeira do fundo na região sul do Brasil.
+Nossa Visão e Recomendação Dada a qualidade superior dos ativos do fundo, visualizamos ponto de entrada atrativo e
+triggers para possível upside de seus dividendos.
+XP Malls (XPML11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 08/11/2023 
+30 de novembro de 2023
+Tese de Investimento O XP Malls FII tem como objetivo a obtenção de renda por meio da exploração imobiliária de
+shopping centers, bem como o ganho de capital, mediante a compra e venda de shopping centers, conforme detalhado
+no Regulamento do Fundo.
+Clique aqui para saber mais sobre a nossa tese para XPML11
+18
+XP RESEARCH
+Research FIIs
+Data de Pagamento
+Cotação Base
+Yield
+Provento
+nov/23
+R$ 76,24
+0,71%
+R$ 0,55
+out/23
+R$ 76,43
+0,68%
+R$ 0,55
+set/23
+R$ 79,19
+0,66%
+R$ 0,55
+ago/23
+R$ 81,38
+0,75%
+R$ 0,63
+jul/23
+R$ 81,68
+0,79%
+R$ 0,63
+jun/23
+R$ 77,17
+0,87%
+R$ 0,63
+mai/23
+R$ 69,59
+0,93%
+R$ 0,63
+abr/23
+R$ 64,08
+1,00%
+R$ 0,63
+mar/23
+R$ 58,90
+0,98%
+R$ 0,63
+fev-23
+R$ 59,59
+0,95%
+R$ 0,63
+RBRF11
+COMPRA
+Preço-Alvo (R$/cota)
+86
+Preço Atual (R$/cota)
+76,24
+Upside (%)
+13%
+DY anualizado
+8,6%
+Gestor
+RBR Asset
+Taxa de Gestão (a.a.)
+0,8% a.a.
+Patrimônio Líquido (R$ mi)
+1.180
+Liquidez diária média(R$mil/dia)
+3.129
+Informações Adicionais 
+Fundo de Fundos
+Características do fundo O RBRF11 busca a diversificação de seus investimentos em quatro estratégias, sendo elas:
+•
+Ativos “Alpha”: (60% da carteira): Principal estratégia do fundo. Foco em FIIs de imóveis prontos com potencial de
+valorização;
+•
+CRI: (26% da carteira): Dívidas imobiliárias com garantias e recebíveis no setor;
+•
+Ativos “Beta” (13% da carteira): Posições táticas. Foco em FIIs com dividendos estabilizados e mais sensíveis às
+oscilações de curto prazo;
+•
+Liquidez (atualmente 0,6%): Recursos alocados em fundos de renda fixa, aguardando alocação futura.
+Portfólio Do ponto de vista de alocação por segmento, o portfólio está atualmente alocado em 8 CRIs e 19 FIIs, e por setor
+27,0% em Recebíveis, 31,0% no Segmento Corporativo, 8,0% no Segmento Logístico, 12,0% no segmento de Shoppings e
+22,0% em outros segmentos.
+Nossa Visão e Recomendação Seus gestores têm buscado qualificar o portfólio do fundo reduzindo posições que não
+consideram como estratégicas e com menor retorno ajustado ao risco, mesmo que estejam com prejuízo. Foram
+efetuados desinvestimentos equilibrando com ganhos de capital, de forma a não impactar a distribuição de dividendos.
+Acreditamos que o fundo está negociando em patamares atrativos ao considerar a qualidade do seu portfólio. Além disso,
+o dividend yield anualizado do fundo é de 8,6%.
+RBR Alpha (RBRF11)
+Fontes: Economatica; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 24/11/2023 
+Tese de Investimento O fundo RBR Alpha Multiestratégia é um Fundo de Fundos Imobiliários com objetivo de auferir
+rendimentos e ganho de capital na aquisição de Fundos Imobiliários, Certificados de Recebíveis Imobiliários (“CRIs”) e
+outros ativos líquidos ligados ao mercado imobiliário.
+Clique aqui para saber mais sobre a nossa tese para RBRF11
+30 de novembro de 2023
+19
+XP RESEARCH
+Research FIIs
+Disclaimer
+1) Este relatório de análise foi elaborado pela XP Investimentos CCTVM S.A. (“XP Investimentos ou XP”) de acordo com todas as exigências previstas na Resolução CVM 20/2021, tem como objetivo fornecer informações que possam auxiliar o investidor a tomar sua própria decisão de investimento, não constituindo
+qualquer tipo de oferta ou solicitação de compra e/ou venda de qualquer produto. As informações contidas neste relatório são consideradas válidas na data de sua divulgação e foram obtidas de fontes públicas. A XP Investimentos não se responsabiliza por qualquer decisão tomada pelo cliente com base no
+presente relatório.
+2) Este relatório foi elaborado considerando a classificação de risco dos produtos de modo a gerar resultados de alocação para cada perfil de investidor.
+3) O(s) signatário(s) deste relatório declara(m) que as recomendações refletem única e exclusivamente suas análises e opiniões pessoais, que foram produzidas de forma independente, inclusive em relação à XP Investimentos e que estão sujeitas a modificações sem aviso prévio em decorrência de alterações nas
+condições de mercado, e que sua(s) remuneração(es) é(são) indiretamente influenciada por receitas provenientes dos negócios e operações financeiras realizadas pela XP Investimentos.
+4) O analista responsável pelo conteúdo deste relatório e pelo cumprimento da Resolução CVM nº 20/2021 está indicado acima, sendo que, caso constem a indicação de mais um analista no relatório, o responsável será o primeiro analista credenciado a ser mencionado no relatório
+.
+5) Os analistas da XP Investimentos estão obrigados ao cumprimento de todas as regras previstas no Código de Conduta da APIMEC para o Analista de Valores Mobiliários e na Política de Conduta dos Analistas de Valores Mobiliários da XP Investimentos.
+6) O atendimento de nossos clientes é realizado por empregados da XP Investimentos ou por agentes autônomos de investimento que desempenham suas atividades por meio da XP, em conformidade com a Resolução CVM nº 16/2021, os quais encontram-se registrados na Associação Nacional das Corretoras e
+Distribuidoras de Títulos e Valores Mobiliários – ANCORD. O agente autônomo de investimento não pode realizar consultoria, administração ou gestão de patrimônio de clientes, devendo atuar como intermediário e solicitar autorização prévia do cliente para a realização de qualquer operação no mercado de
+capitais.
+7) Para fins de verificação da adequação do perfil do investidor aos serviços e produtos de investimento oferecidos pela XP Investimentos, utilizamos a metodologia de adequação dos produtos por portfólio, nos termos das Regras e Procedimentos ANBIMA de Suitability nº 01 e do Código ANBIMA de Regulação e
+Melhores Práticas para Distribuição de Produtos de Investimento. Essa metodologia consiste em atribuir uma pontuação máxima de risco para cada perfil de investidor (conservador, moderado e agressivo), bem como uma pontuação de risco para cada um dos produtos oferecidos pela XP Investimentos, de modo
+que todos os clientes possam ter acesso a todos os produtos, desde que dentro das quantidades e limites da pontuação de risco definidas para o seu perfil. Antes de aplicar nos produtos e/ou contratar os serviços objeto deste material, é importante que você verifique se a sua pontuação de risco atual comporta a
+aplicação nos produtos e/ou a contratação dos serviços em questão, bem como se há limitações de volume, concentração e/ou quantidade para a aplicação desejada. Você pode consultar essas informações diretamente no momento da transmissão da sua ordem ou, ainda, consultando o risco geral da sua
+carteira na tela de carteira (Visão Risco). Caso a sua pontuação de risco atual não comporte a aplicação/contratação pretendida, ou caso existam limitações em relação à quantidade e/ou volume financeiro para a referida aplicação/contratação, isto significa que, com base na composição atual da sua carteira, esta
+aplicação/contratação não está adequada ao seu perfil. Em caso de dúvidas sobre o processo de adequação dos produtos oferecidos pela XP Investimentos ao seu perfil de investidor, consulte o FAQ. As condições de mercado, mudanças climáticas e o cenário macroeconômico podem afetar o desempenho do
+investimento.
+8) A rentabilidade de produtos financeiros pode apresentar variações e seu preço ou valor pode aumentar ou diminuir num curto espaço de tempo. Os desempenhos anteriores não são necessariamente indicativos de resultados futuros. A rentabilidade divulgada não é líquida de impostos. As informações presentes
+neste material são baseadas em simulações e os resultados reais poderão ser significativamente diferentes.
+9) Este relatório é destinado à circulação exclusiva para a rede de relacionamento da XP Investimentos, incluindo agentes autônomos da XP e clientes da XP, podendo também ser divulgado no site da XP. Fica proibida sua reprodução ou redistribuição para qualquer pessoa, no todo ou em parte, qualquer que seja o
+propósito, sem o prévio consentimento expresso da XP Investimentos.
+10)SAC. 0800 77 20202. A Ouvidoria da XP Investimentos tem a missão de servir de canal de contato sempre que os clientes que não se sentirem satisfeitos com as soluções dadas pela empresa aos seus problemas. O contato pode ser realizado por meio do telefone: 0800 722 3710.
+11)O custo da operação e a política de cobrança estão definidos nas tabelas de custos operacionais disponibilizadas no site da XP Investimentos: www.xpi.com.br.
+12)A XP Investimentos se exime de qualquer responsabilidade por quaisquer prejuízos, diretos ou indiretos, que venham a decorrer da utilização deste relatório ou seu conteúdo.
+13) A Avaliação Técnica e a Avaliação de Fundamentos seguem diferentes metodologias de análise. A Análise Técnica é executada seguindo conceitos como tendência, suporte, resistência, candles, volumes, médias móveis entre outros. Já a Análise Fundamentalista utiliza como informação os resultados
+divulgados pelas companhias emissoras e suas projeções. Desta forma, as opiniões dos Analistas Fundamentalistas, que buscam os melhores retornos dadas as condições de mercado, o cenário macroeconômico e os eventos específicos da empresa e do setor, podem divergir das opiniões dos Analistas Técnicos,
+que visam identificar os movimentos mais prováveis dos preços dos ativos, com utilização de “stops” para limitar as possíveis perdas.
+14) Ação é uma fração do capital de uma empresa que é negociada no mercado. É um título de renda variável, ou seja, um investimento no qual a rentabilidade não é preestabelecida, varia conforme as cotações de mercado. O investimento em ações é um investimento de alto risco e os desempenhos anteriores
+não são necessariamente indicativos de resultados futuros e nenhuma declaração ou garantia, de forma expressa ou implícita, é feita neste material em relação a desempenhos. As condições de mercado, o cenário macroeconômico, os eventos específicos da empresa e do setor podem afetar o desempenho do
+investimento, podendo resultar até mesmo em significativas perdas patrimoniais. A duração recomendada para o investimento é de médio-longo prazo. Não há quaisquer garantias sobre o patrimônio do cliente neste tipo de produto.
+15)O investimento em opções é preferencialmente indicado para investidores de perfil agressivo, de acordo com a política de suitability praticada pela XP Investimentos. No mercado de opções, são negociados direitos de compra ou venda de um bem por preço fixado em data futura, devendo o adquirente do direito
+negociado pagar um prêmio ao vendedor tal como num acordo seguro. As operações com esses derivativos são consideradas de risco muito alto por apresentarem altas relações de risco e retorno e algumas posições apresentarem a possibilidade de perdas superiores ao capital investido. A duração recomendada
+para o investimento é de curto prazo e o patrimônio do cliente não está garantido neste tipo de produto.
+16)O investimento em termos são contratos para compra ou a venda de uma determinada quantidade de ações, a um preço fixado, para liquidação em prazo determinado. O prazo do contrato a Termo é livremente escolhido pelos investidores, obedecendo o prazo mínimo de 16 dias e máximo de 999 dias corridos.
+O preço será o valor da ação adicionado de uma parcela correspondente aos juros – que são fixados livremente em mercado, em função do prazo do contrato. Toda transação a termo requer um depósito de garantia. Essas garantias são prestadas em duas formas: cobertura ou margem.
+17)O investimento em Mercados Futuros embute riscos de perdas patrimoniais significativos. Commodity é um objeto ou determinante de preço de um contrato futuro ou outro instrumento derivativo, podendo consubstanciar um índice, uma taxa, um valor mobiliário ou produto físico. É um investimento de risco
+muito alto, que contempla a possibilidade de oscilação de preço devido à utilização de alavancagem financeira. A duração recomendada para o investimento é de curto prazo e o patrimônio do cliente não está garantido neste tipo de produto. As condições de mercado, mudanças climáticas e o cenário
+macroeconômico podem afetar o desempenho do investimento.
+18)ESTA INSTITUIÇÃO É ADERENTE AO CÓDIGO ANBIMA DE REGULAÇÃO E MELHORES PRÁTICAS PARA ATIVIDADE DE DISTRIBUIÇÃO DE PRODUTOS DE INVESTIMENTO NO VAREJO.
+30 de novembro de 2023
+20
+XP RESEARCH
+Research FIIs

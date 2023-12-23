@@ -1,0 +1,587 @@
+1
+Peso %Valor de Mercado 
+(VM)CotaValor 
+Patrimonial 
+(VP)VM/VPYield
+Anualizado
+Por Ticker Segmento Ticker Recomendação Nome (R$ milhões) (R$) (R$/Cota) % No mês Em 12m DY 12m
+12,50% Recebíveis KNCR11 COMPRA Kinea Rendimentos 5.812 102 101 101% 0,5% 16,8% 13,0%
+9,50% Recebíveis MCCI11 COMPRA Mauá Capital Recebíveis 1.494 88 94 94% -4,5% 5,6% 11,6%
+7,50% Recebíveis CPTS11 COMPRA Capitânia Securities 2.511 8 9 89% 1,7% 5,2% 9,2%
+7,50% Recebíveis XPCI11 COMPRA XP Crédito Imobiliário 747 86 91 94% -0,6% 16,0% 13,1%
+5,00% Recebíveis RBRR11 COMPRA RBR High Grade 1.320 88 94 94% 0,9% 10,2% 8,7%
+2,50% Híbrido HGRU11 COMPRA CSHG Renda Urbana 2.476 135 123 109% 4,7% 22,3% 7,9%
+5,00% Híbrido TGAR11 RESTRITO TG Ativo Real 1.666 121 113 107% 1,7% 14,7% 14,5%
+10,00% Ativos Logísticos LVBI11 COMPRA VBI Logística 1.617 114 117 97% -2,5% 20,7% 8,9%
+5,00% Ativos Logísticos BRCO11 RESTRITO Bresco Logística 1.751 119 121 98% -2,2% 29,9% 8,8%
+15,00% Lajes Corporat. PVBI11 RESTRITO VBI Prime Offices 1.313 101 102 99% -1,3% 20,8% 8,1%
+2,50% Lajes Corporat. TEPP11 COMPRA Tellus Properties 394 93 95 98% 4,1% 35,3% 8,5%
+14,00% Shoppings XPML11 COMPRA XP Malls 3.422 111 112 99% 2,5% 25,2% 9,0%
+4,00% Fundo de Fundos RBRF11 COMPRA RBR Alpha 1.043 76 86 88% -0,2% 21,3% 8,5%Fundo PerformanceMaria Fernanda ViolattiCarteira Recomendada de Fundos Imobiliários
+ACarteira Recomendada deFundos Imobiliários écomposta por13ativos com caráter mais defensivo .Portanto, éorientada para investidores com perfil aderente
+àrenda variável .
+Objetivo dacarteira :Oobjetivo daCarteira deFundos Imobiliários XPésuperar odesempenho doIFIX, índice que mede aperformance dos principais fundos
+imobiliários listados embolsa, nohorizonte delongo prazo .Acomposição dacarteira éanalisada mensalmente pelos analistas daequipe, eelapode ounão sofrer
+alterações acada mês .
+Desempenho dacarteira vs.IFIX:Acarteira recomendada daXPapresentou performance de-0,17%emnovembro ,abaixo doIFIX, que apresentou performance
+positiva de0,66%nomês .Adicionalmente, acarteira apresentou um dividend yield médio mensal de0,84%(10,1%dedividend yield anualizado) .
+Alterações domês Alteramos acomposição dacarteira para omêsdedezembro .Visando captar assimetrias demercado, aumentamos marginalmente a
+participação nofundo MCCI 11(+2,0%)eXPML 11(+3,5%)ereduzimos emXPCI 11(-2,0%)eRBRF 11(-3,5%).Dezembro 2023
+Fundos Listados e FIIs
+maria.violatti@xpi.com.brCarteira FundamentalistaResearch FIIs
+Fontes: Economatica; XP Research / Data base: 30/11/23    Performance calculada até dia 30/11/23  *Os fundos destacados encon tram-se restritos por compliance. 30 de novembro de 2023Índice01
+Resumo Carteira
+03
+Carteira Recomendada XP
+04
+Visão Setorial
+05
+Performance Carteira
+06
+Teses de InvestimentoPeso % Valor de Mercado (VM) Cota Valor Patrimonial (VP) VM/VP Yield Anualizado
+Por Ticker Segmento Ticker Recomendação Nome (R$ milhões) (R$) (R$/Cota) % No mês Em 12m DY 12m
+12,50% Recebíveis KNCR11 COMPRA Kinea Rendimentos 5.812 102 101 101% 0,5% 16,8% 13,0%
+9,50% Recebíveis MCCI11 COMPRA Mauá Capital Recebíveis 1.494 88 94 94% -4,5% 5,6% 11,6%
+7,50% Recebíveis CPTS11 COMPRA Capitânia Securities 2.511 8 9 89% 1,7% 5,2% 9,2%
+7,50% Recebíveis XPCI11 COMPRA XP Crédito Imobiliário 747 86 91 94% -0,6% 16,0% 13,1%
+5,00% Recebíveis RBRR11 COMPRA RBR High Grade 1.320 88 94 94% 0,9% 10,2% 8,7%
+2,50% Híbrido HGRU11 COMPRA CSHG Renda Urbana 2.476 135 123 109% 4,7% 22,3% 7,9%
+5,00% Híbrido TGAR11 RESTRITO TG Ativo Real 1.666 121 113 107% 1,7% 14,7% 14,5%
+10,00% Ativos Logísticos LVBI11 COMPRA VBI Logística 1.617 114 117 97% -2,5% 20,7% 8,9%
+5,00% Ativos Logísticos BRCO11 RESTRITO Bresco Logística 1.751 119 121 98% -2,2% 29,9% 8,8%
+15,00% Lajes Corporat. PVBI11 RESTRITO VBI Prime Offices 1.313 101 102 99% -1,3% 20,8% 8,1%
+2,50% Lajes Corporat. TEPP11 COMPRA Tellus Properties 394 93 95 98% 4,1% 35,3% 8,5%
+14,00% Shoppings XPML11 COMPRA XP Malls 3.422 111 112 99% 2,5% 25,2% 9,0%
+4,00% Fundo de Fundos RBRF11 COMPRA RBR Alpha 1.043 76 86 88% -0,2% 21,3% 8,5%Fundo Performance Dezembro /2023
+Descrição dacarteira Acarteira recomendada mantém sua maior alocação emfundos imobiliários
+com caráter mais defensivos eque buscam captar assimetrias demercado .
+Características dacarteira ACarteira Recomendada deFundos Imobiliários écomposta por 13
+ativos recomendados pelos nossos analistas doResearch XP.
+Diversificação dacarteira Adistribuição entre ossegmentos segue com asalocações em
+Recebíveis (42,0%),Lajes Corporativas (17,5%),Logística (15,0%),Shoppings (14,0%),Fundos de
+Fundos (4,0%),eHíbridos (7,5%).
+Alterações domês Alteramos acomposição dacarteira para omêsdedezembro .Visando captar
+assimetrias demercado, aumentamos marginalmente aparticipação nofundo MCCI 11(+2,0%)e
+XPML 11(+3,5%)ereduzimos emXPCI 11(-2,0%)eRBRF 11(-3,5%).Carteira Recomendada de Fundos Imobiliários
+Exposição porsegmento
+Figura 1: Diversificação setorial
+Figura 1: Carteira Recomendada de Fundos Imobiliários: Estimativas e recomendações
+Fontes: Economatica ; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/202330 de novembro de 2023
+Recebíveis ; 42,00%
+Lajes Corporat. ; 
+17,50%Ativos Logísticos ; 
+15,00%Shoppings ; 14,00%Híbridos ; 7,50%Fundo de Fundos ; 
+4,00%4 XP RESEARCHResearch FIIs
+Fontes: XP Research /  Sempre consulte seu assessor de Investimentos•Bom rendimento e menor risco de perda de patrimônio, são uma ótima alternativa para diversificação e mitigação de risco, prin cipalmente em períodos de alta volatilidade do mercado. Dado o 
+cenário macroeconômico com perspectiva de inflação em patamares ainda elevados no curto, continuamos vendo retornos atrativos nos fundos de recebíveis em razão dos índices de inflação e 
+taxa Selic. Acreditamos que os fundos de recebíveis indexados em CDI+ devem se beneficiar do cenário macroeconômico com a tax a de juros Selic em patamares mais elevados. Fundos de Recebíveis (42,0% da carteira)
+•A menor volatilidade é justificada pelo tempo curto de construção, reduzindo o risco de execução e volatilidade nos preços. P or isso, a renda trazida por esses ativos apresenta estabilidade e um 
+menor risco no curto prazo. Adicionalmente, esse segmento apresenta uma perspectiva relativamente favorável no curto prazo de vido a manutenção do crescimento do e -commerce, que desde 
+a pandemia vem demandando volume crescente de ativos logísticos localizados próximos às grandes regiões metropolitanas.Ativos logísticos (15,0% da carteira)
+•Fundos Imobiliários híbridos são fundos que possuem investimento em mais de uma classe de ativos. Essa característica se torn a interessante dado que os fundos híbridos tendem a ter menor 
+nível de risco, dada sua diversificação de tipo de ativos e inquilinos.Híbridos (7,5% da carteira)
+•Acreditamos que as alterações e redimensionamentos dos escritórios relacionados às mudanças provocadas pela pandemia já foram realizadas. Apesar disso, nas regiões premium da cidade 
+de São Paulo, os imóveis de classes A+ e A apresentaram resiliência. Observamos que o mercado de escritórios, para se manter com petitivo, aderiu a flexibilização nas condições comerciais das 
+locações, criando um cenário favorável ao inquilino. A retomada do segmento como um todo está associada à recuperação econômi ca,para que então a vacância da cidade reduza e vejamos 
+movimentos positivos em relação aos preços dos aluguéis. Adicionalmente, os fundamentos de longo prazo são sólidos para essa classe de ativo.Lajes Corporativas (17,5% da carteira)
+•Os Fundos de fundos apostam em explorar ineficiências de mercado e assimetrias de risco/retorno entre os FIIs listados em bol sa,além de usar sua expertise para balancear a exposição de 
+suas carteiras a segmentos específicos, de acordo com o momento e perspectiva de cada setor. Atualmente, o segmento vem apres entando ponto de entrada atrativo.Fundo de Fundos (4,0% da carteira)
+•Dado um cenário macroeconômico mais desafiador, mantemos nossa preferência em fundos com portfólios compostos de shoppings do minantes e orientados para alta renda, por se 
+demonstrarem mais resilientes em períodos desafiadores. Observamos que os indicadores operacionais de alguns shoppings já se aproximam dos valores observados pré-pandemia. Para o 
+longo prazo esperamos uma expansão moderada dos resultados do setor, em linha com nosso cenário macroeconômico para o Brasil.Shoppings (14,0% da carteira)Visão Setorial
+Racional porSegmento30 de novembro de 20235 XP RESEARCHResearch FIIs
+4,7%4,1%2,5%1,7%1,7%0,9%0,5%-0,2%-0,6%-1,3%-2,2%-2,5%-4,5%
+HGRU11TEPP11XPML11TGAR11CPTS11RBRR11KNCR11RBRF11XPCI11PVBI11BRCO11LVBI11MCCI11
+Data dez-22 jan-23 fev-23 mar-23 abr-23 mai-23 jun-23 jul-23 ago-23 set-23 out-23 nov-23 No ano 12 Meses
+Carteira Recomendada-0,5% -2,1% 0,6% 1,2% 3,7% 0,9% 6,1% 2,0% 2,0% 1,8% -1,8% -0,2% 18,5% 18,0%
+Dividendos 0,8% 1,0% 0,9% 0,9% 0,9% 0,9% 0,9% 0,9% 0,8% 0,8% 0,8% 0,8% 10,1% 11,0%
+IFIX 0,0% -1,6% -0,5% -1,7% 3,5% 5,4% 4,7% 1,3% 0,5% 0,2% -2,0% 0,7% 10,8% 10,8%
+CDI 1,0% 1,1% 0,9% 1,1% 0,9% 1,1% 1,1% 1,0% 1,1% 0,9% 0,9% 0,9% 11,6% 12,7%
+*Devido mudança na data de execução da carteira, a performance tanto da carteira como do IFIX foi calculada até o dia  30/11/2 023. 
+Fontes: Economatica ; XP Research /  Sempre consulte seu assessor de Investimentos. Data base: 30/11/2023Acarteira recomendada daXPapresentou performance de-0,17%emnovembro ,abaixo doIFIX, que apresentou performance de0,66%nomês .Adicionalmente, acarteira apresentou um dividend yield médio
+mensal de0,8%(10,1%dedividend yield anualizado) .Com isso, acarteira acumula alta de18,5%noano (acima doíndice IFIX em 7,7p.p.).
+Figura 2: Desempenho de cada ativo -Novembro 2023
+ Figura 3: Performance IFIX vs. IBOV vs. CDIPerformance Carteira
+Desempenho desde o início30 de novembro de 2023
+Desempenho de Novembro de 2023 (Base 100)
+60708090100110120
+nov-22 dez-22 jan-23 fev-23 mar-23 abr-23 mai-23 jun-23 jul-23 ago-23 set-23 out-23IFIX CDI IBOV6 XP RESEARCHResearch FIIs
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 101,80 1,08% R$ 1,11
+out/23 R$ 101,28 1,10% R$ 1,10
+set/23 R$ 98,72 1,20% R$ 1,20
+ago/23 R$ 96,30 1,16% R$ 1,15
+jul/23 R$ 94,50 1,18% R$ 1,15
+jun/23 R$ 92,19 1,30% R$ 1,24
+mai/23 R$ 88,75 1,04% R$ 1,00
+abr/23 R$ 89,44 1,25% R$ 1,22
+mar/23 R$ 89,21 1,01% R$ 1,00
+fev-23 R$ 89,60 1,21% R$ 1,20
+KNCR11 COMPRA
+Preço-Alvo (R$/cota) 101
+Preço Atual (R$/cota) 101,80
+Upside (%) -1%
+DY anualizado 13,0%
+Gestor Kinea Investimentos
+Taxa de Gestão (a.a.) 1,08% a.a.
+Patrimônio Líquido (R$ mi) 5.765
+Liquidez diária média(R$mil/dia) 12.222Informações Adicionais 
+Recebíveis
+Características dofundo OKNCR 11éosegundo maior fundo dosegmento derecebíveis, com patrimônio líquido deR$
+5,77bilhões .105%dopatrimônio líquido está alocado emCRIs, 0%emLCIe2,4%emoutros instrumentos decaixa .O
+fundo possui atualmente 7,4%doseu PLemoperações compromissadas reversas lastreadas emCRI.Essas operações
+compromissadas permitem maior flexibilidade edinamismo naalocação derecursos .
+Portfólio 97,2%daalocação dofundo está indexada aoCDI, 2,3%àSelic e0,5%indexado àinflação, IPCA .Acarteira
+indexada aoCDI tem yield médio de2,52%,com prazo médio de5,4anos, enquanto apequena parte dacarteira (0,6%)
+indexada aoIPCA, tem yield médio de13,00%eprazo médio de3,6anos .Ofundo é,portanto, majoritariamente alocado
+emtítulos pós-fixados ecom baixo risco decrédito, etende asebeneficiar emmomentos como oatual detaxa dejuros
+ainda empatamares elevados einflação emtendência dequeda .Ofundo também possui operações compromissadas
+reversas lastreadas nos CRIs deseuportfólio, usadas para trazer flexibilidade aofundo para novas alocações .
+Oportfólio dofundo possui atualmente aproximadamente 67CRIs ,com boa diversificação setorial :56%nosetor de
+escritórios, 26,7%emshoppings, 11,7%nosetor residencial e5,6%nosetor logístico .Apesar domaior peso nosetor de
+escritórios, amaioria desses CRIs são baseados emimóveis dealto padrão nos estados deSPeRJ,mitigando osriscos
+dosetor .Oscertificados derecebíveis imobiliários apresentam emsua maior parte caráter mais“high grade”,ouseja,
+títulos com devedores que apresentam menor risco decrédito .Além disso, ofundo apresentou uma das menores
+volatilidades dosegmento deFIIs derecebíveis nos últimos 12meses, associado aumdos maiores retornos desse grupo
+durante omesmo período .
+Nossa Visão eRecomendação Acreditamos que ofundo está posicionado com umportfólio que deve proporcionar níveis
+ainda favoráveis derendimentos durante oatual período dealtas taxas dejuros, com patamar relativamente menor de
+risco decrédito erisco demercado quando comparado aos seus pares .Kinea Rendimentos Imobiliários (KNCR11)
+Fontes: Economatica ; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 08/11/2023 30 de novembro de 2023
+Tese deInvestimento OKinea Rendimentos Imobiliários –FIIédedicado aoinvestimento emativos derenda fixa de
+natureza Imobiliária, especialmente emCertificados deRecebíveis Imobiliários (CRI) .
+Clique aqui para saber mais sobre a nossa tese para KNCR117 XP RESEARCHResearch FIIs
+XPCI11 COMPRA
+Preço-Alvo (R$/cota) 91
+Preço Atual (R$/cota) 85,90
+Upside (%) 6%
+DY anualizado 13,1%
+Gestor XP Asset
+Taxa de Gestão (a.a.) 1,0% a.a.
+Patrimônio Líquido (R$ mi) 795
+Liquidez diária média(R$mil/dia) 2.115Informações Adicionais 
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 85,90 1,09% R$ 0,95
+out/23 R$ 86,39 1,09% R$ 0,95
+set/23 R$ 86,08 1,03% R$ 0,90
+ago/23 R$ 84,27 1,15% R$ 1,00
+jul/23 R$ 83,17 1,03% R$ 0,91
+jun/23 R$ 83,36 1,11% R$ 0,93
+mai/23 R$ 78,24 1,10% R$ 0,87
+abr/23 R$ 73,84 1,15% R$ 0,95
+mar/23 R$ 75,74 1,25% R$ 1,00
+fev-23 R$ 72,22 1,22% R$ 0,96
+Recebíveis
+Características dofundo Ofundo está atualmente alocado em 91,5%deseu patrimônio líquido naestratégia de
+investimento direto emCRIs ,3,6%emalocações emFIIs, e4,9%emcaixa .
+Portfólio Naestratégia decrédito, seu portfólio écomposto deCRIs com boa qualidade, credores com risco decrédito
+saudável eestrutura degarantias sólidas, com foco emoriginação eestruturação próprias, eexposição balanceada em
+diferentes segmentos :Residencial (19,1%);Comercial (45,9%)eCrédito Corporativo (34,9%).OLTV médio dacarteira atual
+éde53%,valor emlinha com amédia dos FIIs derecebíveis .
+Acarteira dofundo está concentrada emativos indexados àinflação, que são 71,9%doportfólio atual etêm uma taxa
+média demercado deIPCA +7,25%.Acarteira indexada aoCDI responde por 28,1%doportfólio, eataxa média de
+mercado desses ativos édeCDI +2,77%.Dentro os3,6%alocados emFIIs, seu portfólio representa, deacordo com o
+relatório gerencial dofundo, uma estratégia dealocação tática eotimização decaixa :100%dacarteira atual édeFIIs de
+recebíveis, com osquais ofundo busca fundos demaior resiliência, com composição majoritária depapéis high grade e
+middle risk.Nomês deoutubro, segundo orelatório gerencial, agestão dofundo alienou sua posição noXPML 11,oque
+gerou umganho decapital durante omês deR$815 mil.Adicionalmente, oFundo encerrou omês com alavancagem de
+R$41,09milhões (5,17%doPL)deforma ahonrar novas aquisições, com taxa acima docusto daoperação, gerando valor
+aoFundo .
+Nossa Visão eRecomendação Com adesaceleração dainflação, esperamos que oportfólio indexado aoIPCA dofundo
+traga rendimentos nominais menores nocurto prazo que osobservados nos últimos meses .Com asua carteira atual,
+entretanto, acreditamos que ofundo deve terrendimentos reais ainda em patamares favoráveis, além denegociar
+atualmente com desconto deaproximadamente 6%emrelação aoseuvalor patrimonial .XP Crédito Imobiliário (XPCI11)
+Fontes: Economatica ; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 28/11/202330 de novembro de 2023
+Tese deInvestimento OXPCrédito Imobiliário FIItem como objetivo auferir ganhos pela aplicação deseus recursos em
+ativos financeiros com lastro imobiliário, tais como CRI, Debênture, LCI, LHecotas deFIIs.
+Clique aqui para saber mais sobre a nossa tese para XPCI118 XP RESEARCHResearch FIIs
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 7,90 0,78% R$ 0,06
+out/23 R$ 7,77 0,62% R$ 0,05
+set/23 R$ 8,60 0,90% R$ 0,08
+ago/23 R$ 8,57 1,04% R$ 0,09
+jul/23 R$ 8,26 1,03% R$ 0,09
+jun/23 R$ 8,16 1,05% R$ 0,09
+mai/23 R$ 7,68 1,07% R$ 0,08
+abr/23 R$ 7,09 0,94% R$ 0,07
+mar/23 R$ 7,05 0,96% R$ 0,08
+fev-23 R$ 7,25 0,97% R$ 0,08
+CPTS11 COMPRA
+Preço-Alvo (R$/cota) 9
+Preço Atual (R$/cota) 7,90
+Upside (%) 12%
+DY anualizado 9,3%
+Gestor Capitânia
+Taxa de Gestão (a.a.) 1,05% a.a.
+Patrimônio Líquido (R$ mi) 2.809
+Liquidez diária média(R$mil/dia) 9.628Informações Adicionais 
+Recebíveis
+Características dofundo Atualmente, ofundo possui 70,3%deseu patrimônio líquido em Certificados deRecebíveis
+Imobiliários (CRIs), 27,5%alocado emcotas deoutros fundos imobiliários e2,2%emCaixa .
+Portfólio Amaior parte dacarteira deCRIs (98,65%)éindexada aoIPCA, esua taxa média deaquisição édeIPCA +6,69%,
+aparcela de1,35%indexada emCDI possui taxa média deaquisição deCDI +3,80%.Aduration média dacarteira éde5,5
+anos eLTV médio de61,77%.Oportfólio deCRIs tem, portanto, umperfil mais defensivo, deproteção contra ainflação, e
+agestora tem foco emativos high grade .Ofundo tem umhistórico positivo emsua estratégia deobtenção deganhos de
+capital com anegociação dos CRIs ,eosgestores buscam atualmente uma reciclagem doportfólio com o
+desinvestimento emativos detaxas menores nomercado secundário .Amaior exposição dacarteira decrédito énosetor
+Logístico/Industrial, com 44,2%.Acarteira deFIIs dofundo também tem volume relevante eéuma característica
+diferencial doCPTS 11atualmente .Ossegmentos com maior alocação dessa carteira são Lajes Corporativas (29,8%),
+Renda Urbana (26,7%)eLogística (18,1%),demodo que seus rendimentos constituem uma diversificação importante das
+receitas dofundo .Apesar doimpacto recente em seu dividend yield ,acreditamos que ofundo retome ospatamares
+anteriores .Além demaior volatilidade novalor desuas cotas nomercado secundário nomês deoutubro, oresultado do
+fundo desetembro foimenor devido impacto dopagamento daúltima parcela doFIIGTIS 11que foiincorporado pelo
+HGLG 11.Noentanto, osrecursos recebidos foram alocados emativos que segundo osgestores, devem contribuir para
+melhorar oresultado dofundo nomédio elongo prazo .Segundo orelatório gerencial, arealização denovos giros na
+carteira deCRIs resultaram emprejuízo nomês deoutubro, mas amovimento está emlinha com aestratégia dofundo e
+pretende aplicar este caixa emtaxas mais altas melhorando ocarrego epotencial deganho decapital .
+Nossa Visão eRecomendação Ainda que conte, historicamente, com volatilidade ebeta (em relação aoIFIX) reduzidos
+comparativamente aos seus pares, esperamos que ofundo tenha rendimentos favoráveis com seu portfólio atual ao
+longo dos próximos anos .Além disso, considerado ohistórico dasua equipe degestão, possivelmente deve contar com
+importantes ganhos com anegociação deseus ativos .Capitânia Securities FII (CPTS11)
+Fontes: Economatica ; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 21/11/2023 Clique aqui para saber mais sobre a nossa tese para CPTS11Tese deInvestimento OFundo tem oobjetivo deproporcionar rentabilidade aos seus Cotistas através daaquisição
+preponderantemente deativos deorigem imobiliária, conforme apolítica deinvestimento definida noCapítulo IVdeseu
+Regulamento .30 de novembro de 20239 XP RESEARCHResearch FIIs
+RBRR11 COMPRA
+Preço-Alvo (R$/cota) 94
+Preço Atual (R$/cota) 87,68
+Upside (%) 7%
+DY anualizado 8,9%
+Gestor RBR Asset
+Taxa de Gestão (a.a.) 1,0% a.a.
+Patrimônio Líquido (R$ mi) 1.409
+Liquidez diária média(R$mil/dia) 3.409Informações Adicionais 
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 87,68 0,74% R$ 0,65
+out/23 R$ 86,94 0,73% R$ 0,65
+set/23 R$ 88,11 0,72% R$ 0,65
+ago/23 R$ 88,56 0,76% R$ 0,70
+jul/23 R$ 89,11 0,88% R$ 0,80
+jun/23 R$ 87,74 1,11% R$ 1,00
+mai/23 R$ 86,06 1,12% R$ 1,00
+abr/23 R$ 83,75 1,16% R$ 1,00
+mar/23 R$ 80,19 1,10% R$ 0,95
+fev-23 R$ 79,63 1,14% R$ 0,95
+Recebíveis
+Características dofundo Deacordo com agestora RBR, aestratégia Core deinvestimentos dofundo, que atualmente
+concentra 94%dopatrimônio líquido, épautada emoperações deCertificados deRecebíveis Imobiliários high grade (com
+rating interno mínimo A),exclusivamente restritos ainvestidores profissionais (“off-market”)ecom preferência a
+originações eestruturações próprias .Aestratégia Tática dofundo (atualmente 11%doPL)inclui outros CRIs high grade e
+outros FIIs deCRIs .Aestratégia deliquidez (atualmente 1%doPL) inclui ativos derenda fixa.Atualmente, 85%doPL
+investido em CRIs écomposto por operações ancoradas pela RBR, ouseja, operações originadas, estruturadas e/ou
+investidas emmais de50%daemissão .
+Portfólio Acarteira total deCRIs dofundo está 71%indexada aoIPCA, com taxa média deIPCA+ 7,6%,enquanto 12%se
+encontra alocada emCRIs indexados aoIGP-M,com taxa média deIGP-M+5,4%.Ofundo também detém 16%emativos
+indexados aoCDI, com taxa média deCDI+ 2,7%ecom grande parte com datas devencimento após 2030 .OLTV médio do
+portfólio gira em torno de61%,eacarteira está dividida entre risco decrédito corporativo (74%),risco delocações
+multidevedor (25%)eCarteira Pulverizada (1%).Asgarantias estão localizadas, emsua maioria, naregião Sudeste (90,4%
+dacarteira ),com concentração de53%emativos localizados emregiões prime dacidade deSão Paulo .Emtermos de
+setor econômico, 41%dos CRIs são deLajes Corporativas, 32%deGalpões Logísticos, 23%Residenciais e3%de
+Shoppings .Nos últimos 12meses, ofundo teve volatilidade edividend yield emlinha com amédia dos FIIs deRecebíveis
+analisados, eumretorno acima dos fundos dosegmento .Adicionalmente, ofundo anunciou oencerramento daoitava
+emissão decotas, naqual foram subscritas aproximadamente 1,6milhão decotas, perfazendo omontante total
+aproximado deR$152,9milhões .
+Nossa Visão eRecomendação Acreditamos que, com sua carteira deCRIs atual, ofundo deve obter rendimentos reais
+favoráveis aolongo dos próximos anos, sebeneficiando também com aoriginação eestruturação próprias deCRIs ede
+sua diversificação entre indexadores, tipos deriscos decrédito esetores econômicos dos ativos .RBR High Grade (RBRR11)
+Fontes: Economatica ; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 31/10/2023Tese deInvestimento Ofundo RBR Rendimento High Grade éum fundo imobiliário dosegmento derecebíveis com
+objetivo deauferir rendimentos eganho decapital naaquisição deCRIs .
+Clique aqui para saber mais sobre a nossa tese para RBRR1130 de novembro de 202310 XP RESEARCHResearch FIIs
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 88,09 0,97% R$ 0,90
+out/23 R$ 92,28 0,95% R$ 0,90
+set/23 R$ 93,38 0,96% R$ 0,90
+ago/23 R$ 91,52 0,97% R$ 0,90
+jul/23 R$ 89,08 1,03% R$ 0,95
+jun/23 R$ 88,28 1,06% R$ 0,95
+mai/23 R$ 84,68 1,12% R$ 0,95
+abr/23 R$ 79,27 1,12% R$ 0,95
+mar/23 R$ 78,41 1,13% R$ 0,95
+fev-23 R$ 76,79 1,10% R$ 0,95
+MCCI11 COMPRA
+Preço-Alvo (R$/cota) 94
+Preço Atual (R$/cota) 88,09
+Upside (%) 6%
+DY anualizado 11,6%
+Gestor Mauá Capital
+Taxa de Gestão (a.a.) 1,0% a.a.
+Patrimônio Líquido (R$ mi) 1.593
+Liquidez diária média(R$mil/dia) 3.573Informações Adicionais 
+Recebíveis
+Características dofundo OMCCI 11possui 85%doPLalocado emCRIs eemfundos deCRIs .Opatrimônio alocado em
+CRIs apresenta uma taxa demarcação amercado deIPCA +8,1%(92%dos CRIs) .Orestante doPLdofundo está alocado
+11%emFIIs,3%emcrédito estruturado e1%emcaixa .
+Portfólio Aestratégia dofundo consiste emmanter umportfólio composto decertificados derecebíveis imobiliários de
+boa qualidade decrédito erisco .OsCRIs apresentam emsua maior parte caráter mais“highgrade”, ouseja, títulos com
+devedores que apresentam menores riscos deinadimplência .
+Além disso, ofundo possui boa diversificação nadistribuição setorial doseu portfólio :34%comercial, 33%logístico, 18%
+varejo essencial, 13%residencial e2%emhotel .Em relação àdistribuição geográfica, possui maior exposição emSão
+Paulo (73%).Por fim, ofundo anunciou que não identificou nenhuma inadimplência advinda dos credores que provoque
+interrupção dofluxo depagamentos atéomomento .
+Ofundo apresentou maior volatilidade nomercado secundário, noentanto, otime degestão informou adimplência em
+100%dos CRIs emseu portfólio .Além disso, nos últimos meses tem realizado sua distribuição dedividendos conforme
+guidance .
+Nossa Visão eRecomendação Atualmente, ofundo está negociando próximo aoseu valor patrimonial (VM/VP de0,94x),
+patamar que consideramos atrativo .Odividend yield anualizado éde11,6%,eospagamentos dedividendos deR$0,90por
+cotas .FII Mauá Capital Recebíveis Imobiliários (MCCI11)
+Fontes: Economatica ; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 29/11/2023Tese deInvestimento OFundo tem por objetivo auferir rendimento eganho decapital aos investidores através da
+aquisição deCRI.Nomínimo 67%deseupatrimônio deve serinvestido nesse tipo deativo .
+Clique aqui para saber mais sobre a nossa tese para MCCI 1130 de novembro de 202311 XP RESEARCHResearch FIIs
+HGRU11 COMPRA
+Preço-Alvo (R$/cota) 136
+Preço Atual (R$/cota) 134,50
+Upside (%) 1%
+DY anualizado 7,9%
+Gestor CSHG
+Taxa de Gestão (a.a.) 0,9% a.a.
+Patrimônio Líquido (R$ mi) 2.272
+Liquidez diária média(R$mil/dia) 6.073Informações Adicionais 
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 134,50 0,66% R$ 0,85
+out/23 R$ 128,45 0,62% R$ 0,85
+set/23 R$ 136,75 0,64% R$ 0,85
+ago/23 R$ 130,01 0,64% R$ 0,85
+jul/23 R$ 129,15 1,06% R$ 1,40
+jun/23 R$ 127,65 0,68% R$ 0,85
+mai/23 R$ 120,02 0,70% R$ 0,85
+abr/23 R$ 116,90 0,74% R$ 0,85
+mar/23 R$ 108,79 0,74% R$ 0,85
+fev-23 R$ 107,12 0,69% R$ 0,82
+Híbridos
+Características dofundo OCSHG Renda Urbana éumfundo imobiliário híbrido com alocações emativos devarejo, tanto
+supermercados (47,1%dareceita contratada), quanto devestuário (17,8%),educacional (31,9%)eoutros (3%).O
+patrimônio líquido dofundo está alocado majoritariamente emimóveis físicos, mas também emcotas dofundo SPVJ 11,
+FIIs eCRIs (que, somados, representam 24,29%dopatrimônio dofundo) .
+Portfólio Ofundo possui portfólio com ativos resilientes, como imóveis nosegmento desupermercados, além disso,
+possui alta concentração emcontratos atípicos (80,9%dareceita contratada), vencimentos 99,6%concentrados após
+2025 einquilinos com boa qualidade decrédito (como, porexemplo, Carrefour, Pernambucanas, YDUQS, entre outros) .
+Como informado norelatório domês deoutubro, oresultado dareceita total domês foideR$32,1milhões eteve impacto
+extraordinário davenda das lojas pernambucanas deOsasco/SP conforme ofato relevante divulgado nodia17/10/2023 .
+Ofundo recebeu nadata dedivulgação dofato R$37milhões ecom isso onegócio gerou umlucro emregime decaixa de
+aproximadamente R$12,9milhões equivalente aaproximadamente R$0,7/cota .Durante omês deoutubro ofundo não
+realizou novas locações, portanto ataxa devacância física semanteve em0,9%.
+Nossa Visão eRecomendação Avaliamos que ofundo detém bons ativos, com contratos dealuguel apreços favoráveis e
+prazos longos, trazendo boa previsibilidade para asreceitas dofundo .Acreditamos também que agestora vem obtendo
+sucesso com seuprocesso dereciclagem doportfólio, conseguindo negociar bons preços para seus ativos .CSHG Renda Urbana (HGRU11)
+Fontes: Economatica; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 09/11/2023 Tese deInvestimento OCSHG Renda Urbana tem porobjeto aexploração deempreendimentos imobiliários urbanos de
+uso institucional ecomercial, que potencialmente gerem renda por meio dealienação, locação ouarrendamento,
+priorizando aaquisição deempreendimentos imobiliários institucionais oucomerciais que não sejam lajes corporativas,
+shopping centers oudaárea delogística .OFundo édestinado ainvestidores em geral etem prazo deduração
+indeterminado .
+Clique aqui para saber mais sobre a nossa tese para HGRU1130 de novembro de 202314 XP RESEARCHResearch FIIs
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 113,54 0,74% R$ 0,87
+out/23 R$ 116,42 0,67% R$ 0,79
+set/23 R$ 117,03 0,68% R$ 0,79
+ago/23 R$ 114,12 0,67% R$ 0,79
+jul/23 R$ 114,03 0,66% R$ 0,78
+jun/23 R$ 113,50 0,72% R$ 0,76
+mai/23 R$ 101,35 0,75% R$ 0,76
+abr/23 R$ 97,34 0,79% R$ 0,75
+mar/23 R$ 89,39 0,76% R$ 0,72
+fev-23 R$ 88,31 0,77% R$ 0,75
+LVBI11 COMPRA
+Preço-Alvo (R$/cota) 130
+Preço Atual (R$/cota) 113,54
+Upside (%) 14%
+DY anualizado 8,9%
+Gestor VBI Asset
+Taxa de Gestão (a.a.) 1,3% a.a.
+Patrimônio Líquido (R$ mi) 1.671
+Liquidez diária média(R$mil/dia) 3.193Informações Adicionais 
+Ativos Logísticos
+Características dofundo Agestora VBIReal Estate é100%focada nosetor imobiliário brasileiro epossui vasta experiencia
+nosegmento, com mais de10anos deatuação nomercado imobiliário doBrasil .Ofundo possui patrimônio líquido deR$
+1,399 bilhões, sendo que atualmente 96,2%doPLestá alocado emativos alvo e3,0%mantido emcaixa .
+Portfólio Atualmente, oportfólio dofundo possui 10empreendimentos, que somam mais de479 milm²deABL evacância
+física de0%.Oportfólio dofundo conta com ativos com localização estratégica nos principais polos logísticos dopaís .
+Segundo ofato relevante divulgado nodia31/10/23,ofundo informou que recebeu oaluguel daSequóia ,locatária doAtivo
+Extrema referente acompetência deagosto com vencimento em setembro .Dessa forma, oresultado dodistribuível,
+relativo àcompetência desetembro de2023 ,poderá serimpactado positivamente emR$0,04/cota .Adicionalmente, o
+fundo realizou a4ªEmissão, naqual foram subscritas um total aproximado de2,468 milhões decotas, perfazendo o
+montante aproximado deR$285,8milhões .Parte dovalor captado foidirecionado, conforme fato relevante divulgado no
+dia16/10/23,para recompra antecipada decréditos imobiliários, representado porCCIs ,pelo valor aproximado deR$152,2
+milhões .Ofundo realizou, segundo ofato relevante dodia01/11/2023 ,oseu primeiro desinvestimento deativos .A
+transação foireferente aoativo Guarulhos .Aalienação teve valor total devenda deR$94milhões que deveram serpago
+aofundo R$60milhões àvista (járecebido) eR$34milhões pago emduas parcelas iguais, uma emjaneiro eoutra em
+julho de2024 .Segundo ofundo, olucro distribuível daoperação será equivalente a1,67/cota
+Nossa Visão eRecomendação Ofundo possui boa pulverização deinquilinos em diferentes setores (Ambev, DHL,
+Magazine Luiza, Dia%,Amazon ,IBLLogística eoutros), eacreditamos que osmesmos são empresas degrande porte e
+consolidadas emseus segmentos deatuação .Entendemos que atese dofundo está baseada emboa gestão, ativos bens
+localizados ealto padrão construtivo .VBI Logística (LVBI11)
+Fontes: Economatica ; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 13/11/2023 Tese deInvestimento Ofundo tem como objetivo aobtenção derenda eganho decapital, através doinvestimento de,no
+mínimo, dois terços doseu patrimônio líquido diretamente emimóveis oudireitos reais sobre imóveis dosegmento
+logístico ouindustrial, bem como indiretamente, através deações oucotas desociedades depropósito específico, cotas
+defundos imobiliários ecotas deFundos deInvestimento emParticipações .
+Clique aqui para saber mais sobre a nossa tese para LVBI1130 de novembro de 202316 XP RESEARCHResearch FIIs
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 93,23 0,71% R$ 0,64
+out/23 R$ 89,58 0,63% R$ 0,58
+set/23 R$ 90,75 0,65% R$ 0,58
+ago/23 R$ 87,09 0,66% R$ 0,58
+jul/23 R$ 86,13 0,92% R$ 0,81
+jun/23 R$ 84,81 0,68% R$ 0,55
+mai/23 R$ 77,44 0,71% R$ 0,52
+abr/23 R$ 69,84 0,77% R$ 0,51
+mar/23 R$ 62,69 0,75% R$ 0,50
+fev-23 R$ 62,79 0,71% R$ 0,49
+TEPP11 COMPRA
+Preço-Alvo (R$/cota) 101
+Preço Atual (R$/cota) 93,23
+Upside (%) 8%
+DY anualizado 8,5%
+Gestor Tellus Investimentos
+Taxa de Gestão (a.a.) 0,95% a.a.
+Patrimônio Líquido (R$ mi) 401
+Liquidez diária média(R$mil/dia) 1.348Informações Adicionais 
+Lajes Corporativas
+Características dofundo OTellus Properties FIIéum fundo deinvestimento imobiliário gerido pela Tellus Gestão e
+Consultoria deInvestimentos Ltda .,etem por objetivo aobtenção derenda, mediante aplicação derecursos emlajes
+corporativas .
+Portfólio Ofundo possui atualmente 4imóveis emseu portfólio que somam aproximadamente 35.583 m²deárea .Os
+ativos são:Ed.Torre Sul, Cond .São Luiz, Ed.Passarelli, eEd.Fujitsu, todos localizados nacidade deSão Paulo ecom
+classificação AnoEd.Torre Suleosdemais classificados como B.Além disso, 98%dareceita dealuguel dofundo possui
+vencimento após 2025 .Ofundo possui boa diversificação porsetor deatividade doinquilino, com exposição de30%de
+sua receita emempresas deserviços, 24%detecnologia, 14%desaúde, 17%financeiro, 5%comércio, entre outros .A
+vacância financeira éde1,03%,jáafísica éde0%,após acelebração donovo contrato delocação noEdifício Torre Sul, o
+contrato passou atervigência emoutubro .Segundo ofato relevante publicado nodia25/10/2023 ofundo teve sucesso
+naação contra uma antiga locatária doEdifício Passarelli, para recebimento deaproximadamente R$839,2mil.Ademais,
+ofundo recebeu aproximadamente R$2,5milhões emrazão daconclusão daúltima fase daoperação devenda dos
+conjuntos doEdifício Timbaúba .Deacordo com ofundo, aúltima fase daoperação resultará emumganho decapital de
+R$0,04.Ofundo também aumentou asua participação noEdifício Passarelli com aaquisição doconjunto 113.
+Apesar daboa localização dos ativos dofundo, osmesmos possuem qualidade relativamente inferior aoutros ativos em
+suas respectivas regiões .Noentanto, aestratégia dofundo está associada aopotencial demelhora desua qualidade
+viaretrofit ,e,defato, aequipe degestão tem adotado práticas derevitalização .
+Nossa Visão eRecomendação Ofundo está negociando com desconto emrelação aoseu valor patrimonial (98%P/VP), e
+seu último dividend yield anualizado foide8,5%.Devido àboa localização dos ativos temos recomendação dopapel para
+COMPRA, com preço alvo deR$101.Tellus Properties (TEPP11)
+Fontes: Economatica ; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 08/11/2023 Tese deInvestimento Ofundo tem objetivo deproporcionar aos Cotistas avalorização earentabilidade desuas
+Cotas, conforme apolítica deinvestimento, preponderantemente, pormeio deinvestimentos imobiliários delongo
+prazo
+Clique aqui para saber mais sobre a nossa tese para TEPP 1130 de novembro de 202317 XP RESEARCHResearch FIIs
+XPML11 COMPRA
+Preço-Alvo (R$/cota) 112
+Preço Atual (R$/cota) 111,04
+Upside (%) 1%
+DY anualizado 9,3%
+Gestor XP Asset
+Taxa de Gestão (a.a.) 0,75% a.a.
+Patrimônio Líquido (R$ mi) 3.456
+Liquidez diária média(R$mil/dia) 12.831Informações Adicionais 
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 111,04 0,78% R$ 0,85
+out/23 R$ 108,28 0,77% R$ 0,85
+set/23 R$ 109,07 0,77% R$ 0,85
+ago/23 R$ 108,02 0,79% R$ 0,84
+jul/23 R$ 102,80 0,79% R$ 0,83
+jun/23 R$ 101,12 0,80% R$ 0,81
+mai/23 R$ 96,41 0,79% R$ 0,81
+abr/23 R$ 97,16 0,84% R$ 0,80
+mar/23 R$ 89,22 0,79% R$ 0,78
+fev-23 R$ 91,76 0,79% R$ 0,77
+Shoppings
+Características dofundo Ofundo possui uma carteira deativos distribuída em:74,9%alocado emimóveis, 2,5%emcotas
+deoutros FIIs, 2,9%emCRIs Conversíveis ,e19,6%mantido emcaixa .
+Portfólio Oportfólio dofundo écomposto por 17shopping centers, que juntos somam uma área bruta locável de
+aproximadamente 520 milm²e2.500 lojas .AABL própria dofundo soma 135 milm²,alocada emsua maior parte em
+shoppings dominantes .Além disso, ofundo possui boa exposição em shoppings direcionados para aalta renda e
+entendemos que essa combinação éfavorável .Por fim, oportfólio conta com boa diversificação geográfica com
+alocações porregião :Sudeste (64%);Nordeste (25%);Norte (9%);Sul(2%)edeadministração porpercentual doABL:JHSF
+(37%);Allos (30%);Ancar Ivanhoe (14%);Gazit (10%);Argo (6%);Iguatemi S.A.(2%);eSYN (1%).
+Osindicadores operacionais, como vendas mesmas lojas ealuguéis mesmas lojas, apresentaram queda emrelação aos
+observados em 2022 .Asvendas totais por metro quadrado cresceram 10,7%assim como NOI por metro quadrado
+cresceu 0,6%quando comparados com omesmo perío dode2022 ,dooutro lado, ainadimplência líquida foide0,6%.Jáa
+vacância reduziu em 0,2p.p.em relação aomês deagosto totalizando 4,1%em setembro .Segundo fato relevante
+divulgado emnov/23,ofundo assinou ocontrato decompra evenda para aquisição dafração ideal de10%doPlaza Sul
+Shopping, oque aumenta aparticipação dofundo para 20%.Diante daaprovação datransação, ofundo realizou o
+pagamento daprimeira parcela deR$30milhões nodia21denovembro de2023 erealizará opagamento dasegunda
+parcela deR$30milhões após 12meses com correção doCDI.Adicionalmente, ofundo concluiu aaquisição dafração
+ideal de8%doPraia deBelas Shopping Center (Porto Alegre/RS) pelo valor aproximado deR$60,4milhões que deverão ser
+pagos em duas parcelas iguais (50%avista e50%em 29demaio de2024 com correção doIPCA) .Esta aquisição
+simboliza umaumento dadiversificação geográfica dofundo, visto que elafoiaprimeira dofundo naregião suldoBrasil .
+Nossa Visão eRecomendação Dada aqualidade superior dos ativos dofundo, visualizamos ponto deentrada atrativo e
+triggers para possível upside deseus dividendos .XP Malls (XPML11)
+Fontes: Economatica ; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 08/11/2023 30 de novembro de 2023
+Tese deInvestimento OXPMalls FIItem como objetivo aobtenção derenda por meio daexploração imobiliária de
+shopping centers, bem como oganho decapital, mediante acompra evenda deshopping centers, conforme detalhado
+noRegulamento doFundo .
+Clique aqui para saber mais sobre a nossa tese para XPML1118 XP RESEARCHResearch FIIs
+Data de Pagamento Cotação Base Yield Provento
+nov/23 R$ 76,24 0,71% R$ 0,55
+out/23 R$ 76,43 0,68% R$ 0,55
+set/23 R$ 79,19 0,66% R$ 0,55
+ago/23 R$ 81,38 0,75% R$ 0,63
+jul/23 R$ 81,68 0,79% R$ 0,63
+jun/23 R$ 77,17 0,87% R$ 0,63
+mai/23 R$ 69,59 0,93% R$ 0,63
+abr/23 R$ 64,08 1,00% R$ 0,63
+mar/23 R$ 58,90 0,98% R$ 0,63
+fev-23 R$ 59,59 0,95% R$ 0,63
+RBRF11 COMPRA
+Preço-Alvo (R$/cota) 86
+Preço Atual (R$/cota) 76,24
+Upside (%) 13%
+DY anualizado 8,6%
+Gestor RBR Asset
+Taxa de Gestão (a.a.) 0,8% a.a.
+Patrimônio Líquido (R$ mi) 1.180
+Liquidez diária média(R$mil/dia) 3.129Informações Adicionais 
+Fundo de Fundos
+Características dofundo ORBRF 11busca adiversificação deseus investimentos emquatro estratégias, sendo elas:
+•Ativos“Alpha” :(60%dacarteira) :Principal estratégia dofundo .Foco emFIIs deimóveis prontos com potencial de
+valorização ;
+•CRI:(26%dacarteira) :Dívidas imobiliárias com garantias erecebíveis nosetor ;
+•Ativos“Beta” (13%dacarteira) :Posições táticas .Foco em FIIs com dividendos estabilizados emais sensíveis às
+oscilações decurto prazo ;
+•Liquidez (atualmente 0,6%):Recursos alocados emfundos derenda fixa, aguardando alocação futura .
+Portfólio Doponto devista dealocação porsegmento, oportfólio está atualmente alocado em8CRIs e19FIIs, eporsetor
+27,0%emRecebíveis, 31,0%noSegmento Corporativo, 8,0%noSegmento Logístico, 12,0%nosegmento deShoppings e
+22,0%emoutros segmentos .
+Nossa Visão eRecomendação Seus gestores têm buscado qualificar oportfólio dofundo reduzindo posições que não
+consideram como estratégicas ecom menor retorno ajustado aorisco, mesmo que estejam com prejuízo .Foram
+efetuados desinvestimentos equilibrando com ganhos decapital, deforma anão impactar adistribuição dedividendos .
+Acreditamos que ofundo está negociando empatamares atrativos aoconsiderar aqualidade doseu portfólio .Além disso,
+odividend yield anualizado dofundo éde8,6%.RBR Alpha (RBRF11)
+Fontes: Economatica ; XP Research /  Sempre consulte seuassessor de Investimentos. Data base: 30/11/2023 Relatório Gerencial divulgado em: 24/11/2023 Tese deInvestimento Ofundo RBR Alpha Multiestratégia éumFundo deFundos Imobiliários com objetivo deauferir
+rendimentos eganho decapital naaquisição deFundos Imobiliários, Certificados deRecebíveis Imobiliários (“CRIs”)e
+outros ativos líquidos ligados aomercado imobiliário .
+Clique aqui para saber mais sobre a nossa tese para RBRF1130 de novembro de 202319 XP RESEARCHResearch FIIsDisclaimer
+1)Este relatório deanálise foielaborado pela XPInvestimentos CCTVM S.A.(“XP Investimentos ouXP”) deacordo com todas asexigências previstas naResolução CVM 20/2021 ,tem como objetivo fornecer informações que possam auxiliar oinvestidor atomar sua própria decisão deinvestimento, não constituindo
+qualquer tipo deoferta ousolicitação decompra e/ou venda dequalquer produto .Asinformações contidas neste relatório são consideradas válidas nadata desua divulgação eforam obtidas defontes públicas .AXPInvestimentos não seresponsabiliza porqualquer decisão tomada pelo cliente com base no
+presente relatório .
+2)Este relatório foielaborado considerando aclassificação derisco dos produtos demodo agerar resultados dealocação para cada perfil deinvestidor .
+3)O(s) signatário(s) deste relatório declara(m) que asrecomendações refletem única eexclusivamente suas análises eopiniões pessoais, que foram produzidas deforma independente, inclusive emrelação àXPInvestimentos eque estão sujeitas amodificações sem aviso prévio emdecorrência dealterações nas
+condições demercado, eque sua(s) remuneração(es) é(são) indiretamente influenciada porreceitas provenientes dos negócios eoperações financeiras realizadas pela XPInvestimentos .
+4)Oanalista responsável pelo conteúdo deste relatório epelo cumprimento daResolução CVM nº20/2021 está indicado acima, sendo que, caso constem aindicação demais umanalista norelatório, oresponsável será oprimeiro analista credenciado asermencionado norelatório .
+5)Osanalistas daXPInvestimentos estão obrigados aocumprimento detodas asregras previstas noCódigo deConduta daAPIMEC para oAnalista deValores Mobiliários enaPolítica deConduta dos Analistas deValores Mobiliários daXPInvestimentos .
+6)Oatendimento denossos clientes érealizado porempregados daXPInvestimentos ouporagentes autônomos deinvestimento que desempenham suas atividades pormeio daXP,emconformidade com aResolução CVM nº16/2021 ,osquais encontram -seregistrados naAssociação Nacional das Corretoras e
+Distribuidoras deTítulos eValores Mobiliários –ANCORD .Oagente autônomo deinvestimento não pode realizar consultoria, administração ougestão depatrimônio declientes, devendo atuar como intermediário esolicitar autorização prévia docliente para arealização dequalquer operação nomercado de
+capitais .
+7)Para fins deverificação daadequação doperfil doinvestidor aos serviços eprodutos deinvestimento oferecidos pela XPInvestimentos, utilizamos ametodologia deadequação dos produtos porportfólio, nos termos das Regras eProcedimentos ANBIMA deSuitability nº01edoCódigo ANBIMA deRegulação e
+Melhores Práticas para Distribuição deProdutos deInvestimento .Essa metodologia consiste ematribuir uma pontuação máxima derisco para cada perfil deinvestidor (conservador, moderado eagressivo), bem como uma pontuação derisco para cada umdos produtos oferecidos pela XPInvestimentos, demodo
+que todos osclientes possam teracesso atodos osprodutos, desde que dentro das quantidades elimites dapontuação derisco definidas para oseu perfil .Antes deaplicar nos produtos e/ou contratar osserviços objeto deste material, éimportante que você verifique seasua pontuação derisco atual comporta a
+aplicação nos produtos e/ou acontratação dos serviços emquestão, bem como sehálimitações devolume, concentração e/ou quantidade para aaplicação desejada .Você pode consultar essas informações diretamente nomomento datransmissão dasua ordem ou,ainda, consultando orisco geral dasua
+carteira natela decarteira (Visão Risco) .Caso asua pontuação derisco atual não comporte aaplicação/contratação pretendida, oucaso existam limitações emrelação àquantidade e/ou volume financeiro para areferida aplicação/contratação, isto significa que, com base nacomposição atual dasua carteira, esta
+aplicação/contratação não está adequada aoseu perfil .Emcaso dedúvidas sobre oprocesso deadequação dos produtos oferecidos pela XPInvestimentos aoseu perfil deinvestidor, consulte oFAQ .Ascondições demercado, mudanças climáticas eocenário macroeconômico podem afetar odesempenho do
+investimento .
+8)Arentabilidade deprodutos financeiros pode apresentar variações eseu preço ouvalor pode aumentar oudiminuir num curto espaço detempo .Osdesempenhos anteriores não são necessariamente indicativos deresultados futuros .Arentabilidade divulgada não élíquida deimpostos .Asinformações presentes
+neste material são baseadas emsimulações eosresultados reais poderão sersignificativamente diferentes .
+9)Este relatório édestinado àcirculação exclusiva para arede derelacionamento daXPInvestimentos, incluindo agentes autônomos daXPeclientes daXP,podendo também serdivulgado nosite daXP.Fica proibida sua reprodução ouredistribuição para qualquer pessoa, notodo ouemparte, qualquer que seja o
+propósito, sem oprévio consentimento expresso daXPInvestimentos .
+10)SAC .0800 7720202 .AOuvidoria daXPInvestimentos tem amissão deservir decanal decontato sempre que osclientes que não sesentirem satisfeitos com assoluções dadas pela empresa aos seus problemas .Ocontato pode serrealizado pormeio dotelefone :0800 722 3710 .
+11)Ocusto daoperação eapolítica decobrança estão definidos nas tabelas decustos operacionais disponibilizadas nosite daXPInvestimentos :www .xpi.com .br.
+12)AXPInvestimentos seexime dequalquer responsabilidade porquaisquer prejuízos, diretos ouindiretos, que venham adecorrer dautilização deste relatório ouseu conteúdo .
+13)AAvaliação Técnica eaAvaliação deFundamentos seguem diferentes metodologias deanálise .AAnálise Técnica éexecutada seguindo conceitos como tendência, suporte, resistência, candles ,volumes, médias móveis entre outros .JáaAnálise Fundamentalista utiliza como informação osresultados
+divulgados pelas companhias emissoras esuas projeções .Desta forma, asopiniões dos Analistas Fundamentalistas, que buscam osmelhores retornos dadas ascondições demercado, ocenário macroeconômico eoseventos específicos daempresa edosetor, podem divergir das opiniões dos Analistas Técnicos,
+que visam identificar osmovimentos mais prováveis dos preços dos ativos, com utilização de“stops”para limitar aspossíveis perdas .
+14)Ação éuma fração docapital deuma empresa que énegociada nomercado .Éumtítulo derenda variável, ouseja, uminvestimento noqual arentabilidade não épreestabelecida, varia conforme ascotações demercado .Oinvestimento emações éuminvestimento dealto risco eosdesempenhos anteriores
+não são necessariamente indicativos deresultados futuros enenhuma declaração ougarantia, deforma expressa ouimplícita, éfeita neste material emrelação adesempenhos .Ascondições demercado, ocenário macroeconômico, oseventos específicos daempresa edosetor podem afetar odesempenho do
+investimento, podendo resultar atémesmo emsignificativas perdas patrimoniais .Aduração recomendada para oinvestimento édemédio -longo prazo .Não háquaisquer garantias sobre opatrimônio docliente neste tipo deproduto .
+15)Oinvestimento emopções épreferencialmente indicado para investidores deperfil agressivo, deacordo com apolítica desuitability praticada pela XPInvestimentos .Nomercado deopções, são negociados direitos decompra ouvenda deumbem porpreço fixado emdata futura, devendo oadquirente dodireito
+negociado pagar umprêmio aovendedor talcomo num acordo seguro .Asoperações com esses derivativos são consideradas derisco muito alto porapresentarem altas relações derisco eretorno ealgumas posições apresentarem apossibilidade deperdas superiores aocapital investido .Aduração recomendada
+para oinvestimento édecurto prazo eopatrimônio docliente não está garantido neste tipo deproduto .
+16)Oinvestimento emtermos são contratos para compra ouavenda deuma determinada quantidade deações, aumpreço fixado, para liquidação emprazo determinado .Oprazo docontrato aTermo élivremente escolhido pelos investidores, obedecendo oprazo mínimo de16dias emáximo de999 dias corridos .
+Opreço será ovalor daação adicionado deuma parcela correspondente aos juros–que são fixados livremente emmercado, emfunção doprazo docontrato .Toda transação atermo requer umdepósito degarantia .Essas garantias são prestadas emduas formas :cobertura oumargem .
+17)Oinvestimento emMercados Futuros embute riscos deperdas patrimoniais significativos .Commodity éumobjeto oudeterminante depreço deumcontrato futuro ououtro instrumento derivativo, podendo consubstanciar umíndice, uma taxa, umvalor mobiliário ouproduto físico .Éuminvestimento derisco
+muito alto, que contempla apossibilidade deoscilação depreço devido àutilização dealavancagem financeira .Aduração recomendada para oinvestimento édecurto prazo eopatrimônio docliente não está garantido neste tipo deproduto .Ascondições demercado, mudanças climáticas eocenário
+macroeconômico podem afetar odesempenho doinvestimento .
+18)ESTA INSTITUIÇÃO ÉADERENTE AOCÓDIGO ANBIMA DEREGULAÇÃO EMELHORES PRÁTICAS PARA ATIVIDADE DEDISTRIBUIÇÃO DEPRODUTOS DEINVESTIMENTO NOVAREJO .30 de novembro de 202320 XP RESEARCHResearch FIIs

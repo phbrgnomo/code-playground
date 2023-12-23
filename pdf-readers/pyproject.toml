@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pdf-readers"
+version = "0.1.0"
+description = "Experimentation with pdf files parsing"
+authors = ["phbrgnomo <phbrcc@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pypdf2 = "^3.0.1"
+pymupdf = "^1.23.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
