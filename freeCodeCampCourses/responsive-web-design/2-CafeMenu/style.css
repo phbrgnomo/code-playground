@@ -1,96 +1,113 @@
+/* Body styles */
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
     padding: 20px;
 }
 
+/* Heading 1 styles */
 h1 {
-font-size: 40px;
-margin-top: 0;
-margin-bottom: 15px;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
 }
 
+/* Heading 2 styles */
 h2 {
-font-size: 30px;
+    font-size: 30px;
 }
 
+/* Italicized text style for the establishment year */
 .established {
-font-style: italic;
+    font-style: italic;
 }
 
+/* Center-align text for h1, h2, and p elements */
 h1, h2, p {
-text-align: center;
+    text-align: center;
 }
 
+/* Container styles for the menu */
 .menu {
-width: 80%;
-background-color: burlywood;
-margin-left: auto;
-margin-right: auto;
-padding: 20px;
-max-width: 500px;
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
 }
 
+/* Center-align images within the menu */
 img {
-display: block;
-margin-left: auto;
-margin-right: auto;
-margin-top: -25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
 }
 
+/* Horizontal rule styles */
 hr {
-height: 2px;
-background-color: brown;
-border-color: brown;
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
 }
 
+/* Margin for the bottom line */
 .bottom-line {
-margin-top: 25px;
+    margin-top: 25px;
 }
 
+/* Font family for h1 and h2 */
 h1, h2 {
-font-family: Impact, serif;
+    font-family: Impact, serif;
 }
 
+/* Styles for individual menu items */
 .item p {
-display: inline-block;
-margin-top: 5px;
-margin-bottom: 5px;
-font-size: 18px;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
 }
 
+/* Styles for flavor and dessert text */
 .flavor, .dessert {
-text-align: left;
-width: 75%;
+    text-align: left;
+    width: 75%;
 }
 
+/* Styles for price text */
 .price {
-text-align: right;
-width: 25%;
+    text-align: right;
+    width: 25%;
 }
 
-/* FOOTER */
-
+/* Footer styles */
 footer {
-font-size: 14px;
+    font-size: 14px;
 }
 
+/* Margin for the address in the footer */
 .address {
-margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
+/* Link styles */
 a {
-color: black;
+    color: black;
 }
 
+/* Visited link styles */
 a:visited {
-color: black;
+    color: black;
 }
 
+/* Hover styles for links */
 a:hover {
-color: brown;
+    color: brown;
 }
 
+/* Active link styles */
 a:active {
-color: brown;
+    color: brown;
 }
