@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Set the character set for the document -->
+    <meta charset="UTF-8">
+    <!-- Set the title of the document -->
+    <title>Survey Form</title>
+    <!-- Link to an external stylesheet for styling -->
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <!-- Container to hold the entire content -->
+    <div class="container">
+        <!-- Header section with the title and description -->
+        <header class="header">
+            <h1 id="title">Survey Form</h1>
+            <p id="description">
+                Thanks for checking my code playground! Let me know what other experiments you would like to see!
+            </p>
+        </header>
+
+        <!-- Form for user input -->
+        <form id="survey-form">
+            <!-- Input field for name -->
+            <label for="name" id="name-label">Name:</label>
+            <input id="name" required type="text" placeholder="Enter your name">
+
+            <!-- Input field for email -->
+            <label for="email" id="email-label">Email:</label>
+            <input id="email" required type="email" placeholder="Enter your email">
+
+            <!-- Input field for age (number) -->
+            <label for="number" id="number-label">Age:</label>
+            <input id="number" required type="number" placeholder="Enter your Age" min="1" max="100">
+
+            <!-- Dropdown for coding experience -->
+            <label for="dropdown" id="dropdown-label">What is your coding experience?</label>
+            <select id="dropdown">
+                <option value="">(select one)</option>
+                <option value="1">Noob</option>
+                <option value="2">Average</option>
+                <option value="3">OG</option>
+                <option value="4">Master of the Universe!</option>
+            </select>
+
+            <!-- Radio buttons for user's liking of code experiments -->
+            <fieldset>
+                <legend>Have you liked any of the code experiments?</legend>
+                <label>
+                    <input type="radio" name="radioGroup" value="r1" class="input-radio"> No... It's all Crap!
+                </label>
+                <label>
+                    <input type="radio" name="radioGroup" value="r2" class="input-radio"> Maybe? I guess...
+                </label>
+                <label>
+                    <input type="radio" name="radioGroup" value="r3" class="input-radio"> Everything is Awesome!
+                </label>
+            </fieldset>
+
+            <!-- Checkboxes for suggested experiments -->
+            <fieldset>
+                <legend> What type of experiments you would like to see on this repo </legend>
+                <label>
+                    <input name="suggestions" value="Python code" type="checkbox" class="input-checkbox">
+                    Python Experiments
+                </label>
+                <label>
+                    <input name="suggestions" value="Machine Learning" type="checkbox" class="input-checkbox">
+                    Machine Learning
+                </label>
+                <label>
+                    <input name="suggestions" value="Dumb Stuff" type="checkbox" class="input-checkbox">
+                    Dumb Stuff
+                </label>
+                <label>
+                    <input name="suggestions" value="Web Development" type="checkbox" class="input-checkbox">
+                    Web Development
+                </label>
+            </fieldset>
+
+            <!-- Textarea for additional suggestions -->
+            <div>
+                <label>
+                    <p>Any suggestions of code experiments?</p>
+                    <textarea name="suggestions"></textarea>
+                </label>
+            </div>
+
+            <!-- Submit button -->
+            <div>
+                <button class="submit-button" id="submit">
+                    Submit!
+                </button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
