@@ -1,19 +1,35 @@
 {
+    "window.zoomLevel": 1,
+    
+    "workbench.tree.indent": 20,
+    
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.size": "fill",
+    "editor.cursorBlinking": "smooth",
+    "editor.rulers": [88, 120],
+    
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+    ,
+
+
     "python.testing.pytestArgs": [
         "tests"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
 
-    "settings": {
+    "[python]": {
+        "python.linting.lintOnSave": true,
+        "python.linting.enabled": true,
+
+        "editor.defaultFormatter": "ms-python.black-formatter",
         "editor.formatOnSaveMode": "file",
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
-            "source.organizeImports": true
+            "source.organizeImports": "explicit",
+            // "source.fixAll": "explicit"
         },
-        "python.linting.pylintEnabled": true,
-        "python.linting.enabled": true,
-        "python.formatting.provider": "black",
-
     },
+
 }

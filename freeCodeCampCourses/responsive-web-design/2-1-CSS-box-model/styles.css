@@ -1,0 +1,54 @@
+/* Styling for the canvas */
+.canvas {
+    width: 500px; /* Set canvas width */
+    height: 600px; /* Set canvas height */
+    background-color: #4d0f00; /* Set canvas background color */
+    overflow: hidden; /* Hide overflow content */
+    filter: blur(2px); /* Apply a 2px blur effect to the whole canvas */
+}
+
+/* Styling for the frame surrounding the canvas */
+.frame {
+    border: 50px solid black; /* Set frame border with 50px thickness and black color */
+    width: 500px; /* Set frame width */
+    padding: 50px; /* Add 50px padding inside the frame */
+    margin: 20px auto; /* Set margin to 20px on top and bottom, auto on left and right for centering */
+}
+
+/* Styling for the first part of the canvas */
+.one {
+    width: 425px; /* Set width of the first part */
+    height: 150px; /* Set height of the first part */
+    background-color: #efb762; /* Set background color of the first part */
+    margin: 20px auto; /* Set margin to 20px on top and bottom, auto on left and right for centering */
+    box-shadow: 0 0 3px 3px #efb762; /* Add a subtle box shadow with a yellowish color */
+    border-radius: 9px; /* Apply a border radius to round the corners */
+    transform: rotate(-0.6deg); /* Rotate the element slightly */
+}
+
+/* Styling for the second part of the canvas */
+.two {
+    width: 475px; /* Set width of the second part */
+    height: 200px; /* Set height of the second part */
+    background-color: #8f0401; /* Set background color of the second part */
+    margin: 0 auto 20px; /* Set margin to 0 on top, auto on left and right, 20px on bottom for spacing */
+    box-shadow: 0 0 3px 3px #8f0401; /* Add a subtle box shadow with a reddish color */
+    border-radius: 8px 10px; /* Apply different border radii for a rounded effect */
+    transform: rotate(0.4deg); /* Rotate the element slightly */
+}
+
+/* Common styling for both the first and second parts */
+.one, .two {
+    filter: blur(1px); /* Apply a 1px blur effect to both elements */
+}
+
+/* Styling for the third part of the canvas */
+.three {
+    width: 91%; /* Set width of the third part */
+    height: 28%; /* Set height of the third part */
+    background-color: #b20403; /* Set background color of the third part */
+    margin: auto; /* Center the element horizontally */
+    filter: blur(2px); /* Apply a 2px blur effect to the third part */
+    box-shadow: 0 0 5px 5px #b20403; /* Add a stronger box shadow with a reddish color */
+    border-radius: 30px 25px 60px 12px; /* Apply different border radii for a unique shape */
+}
