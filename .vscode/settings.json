@@ -31,5 +31,8 @@
             // "source.fixAll": "explicit"
         },
     },
+    "docwriter.progress.trackMethods": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
 
 }
