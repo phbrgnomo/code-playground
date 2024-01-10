@@ -1,0 +1,50 @@
+/* Apply box-sizing border-box to all elements for consistent box model */
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Set basic styling for the entire body */
+  body {
+    margin: 0; /* Remove default margin */
+    font-family: sans-serif; /* Use a sans-serif font for the text */
+    background: #f5f6f7; /* Set background color */
+  }
+  
+  /* Styling for the header section */
+  .header {
+    text-align: center; /* Center-align text */
+    text-transform: uppercase; /* Convert text to uppercase */
+    padding: 32px; /* Add padding around the header */
+    background-color: #0a0a23; /* Set background color */
+    color: #fff; /* Set text color to white */
+    border-bottom: 4px solid #fdb347; /* Add a bottom border with a specific color */
+  }
+  
+  /* Styling for the gallery section */
+  .gallery {
+    display: flex; /* Use flexbox layout */
+    flex-direction: row; /* Arrange items in a row */
+    flex-wrap: wrap; /* Allow items to wrap to the next line if necessary */
+    justify-content: center; /* Center-align items horizontally */
+    align-items: center; /* Center-align items vertically */
+    gap: 16px; /* Set a gap between gallery items */
+    max-width: 1400px; /* Limit the maximum width of the gallery */
+    margin: 0 auto; /* Center the gallery by setting left and right margin to auto */
+    padding: 20px 10px; /* Add padding around the gallery */
+  }
+  
+  /* Styling for individual images within the gallery */
+  .gallery img {
+    width: 100%; /* Set the image width to 100% of its container */
+    max-width: 350px; /* Limit the maximum width of the image */
+    height: 300px; /* Set a fixed height for the image */
+    object-fit: cover; /* Ensure the image covers its entire container while maintaining aspect ratio */
+    border-radius: 10px; /* Add rounded corners to the image */
+  }
+  
+  /* Pseudo-element to clear floats in the gallery */
+  .gallery::after {
+    content: ""; /* Add content (empty string) */
+    width: 350px; /* Set width to match the maximum width of the images */
+  }
+  
