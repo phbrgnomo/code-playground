@@ -1,5 +1,7 @@
+from matplotlib.pyplot import hist
 import requests
 import pandas as pd
+import re
 
 from typing import List
 from typing import Dict
@@ -128,15 +130,17 @@ class PriceHistory():
         # If it's okay parse it.
         if historical_data.ok:
             historical_data = historical_data.json()
+            # Uncomment to debug the historical data parsing
+            # print(historical_data)
             historical_data = historical_data['data']['tradesTable']['rows']
 
             # Clean the data.
             for table_row in historical_data:
                 table_row['symbol'] = symbol
-                table_row['close'] = float(table_row['close'].replace('$',''))
+                table_row['close'] = float(re.sub('[$,]', '', table_row['close']))
                 table_row['volume'] = int(table_row['volume'].replace(',',''))
-                table_row['open'] = float(table_row['open'].replace('$',''))
-                table_row['high'] = float(table_row['high'].replace('$',''))
-                table_row['low'] = float(table_row['low'].replace('$',''))
+                table_row['open'] = float(re.sub('[$,]', '', table_row['open']))
+                table_row['high'] = float(re.sub('[$,]', '', table_row['high']))
+                table_row['low'] = float(re.sub('[$,]', '', table_row['low']))
 
             return historical_data
