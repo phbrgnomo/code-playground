@@ -1,0 +1,124 @@
+/* Apply border-box model to all elements */
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Set base font size for better responsiveness */
+  html {
+    font-size: 16px;
+  }
+  
+  /* Specify font family for the entire document */
+  body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  /* Style for the overall nutrition label container */
+  .label {
+    border: 2px solid black;
+    width: 270px;
+    margin: 20px auto;
+    padding: 0 7px;
+  }
+  
+  /* Style for the header section, particularly the h1 element */
+  header h1 {
+    text-align: center;
+    margin: -4px 0;
+    letter-spacing: 0.15px;
+  }
+  
+  /* Style for paragraphs to have space between elements */
+  p {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Style for horizontal dividers */
+  .divider {
+    border-bottom: 1px solid #888989;
+    margin: 2px 0;
+  }
+  
+  /* Style for bold text */
+  .bold {
+    font-weight: 800;
+  }
+  
+  /* Style for large dividers, creating a visual separation */
+  .large {
+    height: 10px;
+  }
+  
+  /* Styling for both large and medium dividers, setting background color and removing border */
+  .large,
+  .medium {
+    background-color: black;
+    border: 0;
+  }
+  
+  /* Style for medium dividers */
+  .medium {
+    height: 5px;
+  }
+  
+  /* Style for smaller text elements */
+  .small-text {
+    font-size: 0.85rem;
+  }
+  
+  /* Style for the container of calorie information */
+  .calories-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  
+  /* Style for the heading in the calorie information container */
+  .calories-info h2 {
+    margin: 0;
+  }
+  
+  /* Style for left container within the calorie information */
+  .left-container p {
+    margin: -5px -2px;
+    font-size: 2em;
+    font-weight: 700;
+  }
+  
+  /* Style for the calorie information value */
+  .calories-info span {
+    margin: -7px -2px;
+    font-size: 2.4em;
+    font-weight: 700;
+  }
+  
+  /* Align content to the right within a container */
+  .right {
+    justify-content: flex-end;
+  }
+  
+  /* Style for indented paragraphs */
+  .indent {
+    margin-left: 1em;
+  }
+  
+  /* Style for double-indented paragraphs */
+  .double-indent {
+    margin-left: 2em;
+  }
+  
+  /* Style for daily value paragraphs, adding a bottom border */
+  .daily-value p:not(.no-divider) {
+    border-bottom: 1px solid #888989;
+  }
+  
+  /* Style for the note at the bottom of the label */
+  .note {
+    font-size: 0.6rem;
+    margin: 5px 0;
+    padding: 0 8px;
+    text-indent: -8px;
+  }
+  
