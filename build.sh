@@ -40,7 +40,7 @@ case "$build_engine" in
 
         # Remove all images with the same name
         echo -e "Removing existing images with the name: ${YELLOW}$container_name${NC}"
-        docker rmi -f $(docker images -q $container_name) || true
+        docker rmi -f $(docker images -q "$container_name") || true
 
 
         # Extract WORKDIR from Dockerfile
@@ -71,7 +71,7 @@ case "$build_engine" in
 
                 # Remove all images with the same name
                 echo -e "Removing existing images with the name: ${YELLOW}$container_name${NC}"
-                docker rmi -f $(docker images -q $container_name) || true
+                docker rmi -f $(docker images -q "$container_name") || true
 
                 # Bring up the Docker Compose services
                 echo -e "Bringing up Docker Compose services"
