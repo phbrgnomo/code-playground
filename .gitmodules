@@ -16,3 +16,6 @@
 [submodule "api-experiments"]
 	path = api-experiments
 	url = https://github.com/phbrgnomo/api-experiments.git
+[submodule "fastapi-experiments"]
+	path = fastapi-experiments
+	url = https://github.com/phbrgnomo/fastapi-experiments.git
