@@ -21,7 +21,7 @@ git init
 
 # Add a README file or other initial content
 echo "# $submodule_folder" > README.md
-cp -r ../.vscode $submodule_folder/
+cp -r ../.vscode .vscode/
 git add .
 git commit -m "Initial commit"
 
