@@ -1,7 +1,3 @@
 [submodule "freeCodeCampCourses"]
     path = freeCodeCampCourses
     url = https://github.com/phbrgnomo/freeCodeCampCourses.git
-
-[submodule "python-slot-machine"]
-    path = python-slot-machine
-    url = https://github.com/phbrgnomo/python-slot-machine.git
