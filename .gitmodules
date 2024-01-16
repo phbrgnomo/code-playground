@@ -1,3 +1,12 @@
 [submodule "freeCodeCampCourses"]
 	path = freeCodeCampCourses
 	url = https://github.com/phbrgnomo/freeCodeCampCourses
+[submodule "code-challenges"]
+	path = code-challenges
+	url = https://github.com/phbrgnomo/code-challenges
+[submodule "pdf-readers"]
+	path = pdf-readers
+	url = https://github.com/phbrgnomo/pdf-readers
+[submodule "portfolio-optimization-experiments"]
+	path = portfolio-optimization-experiments
+	url = https://github.com/phbrgnomo/portfolio-optimization-experiments
