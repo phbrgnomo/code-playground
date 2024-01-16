@@ -13,6 +13,3 @@
 [submodule "small-experiments"]
 	path = small-experiments
 	url = https://github.com/phbrgnomo/small-experiments
-[submodule "newb"]
-	path = newb
-	url = https://github.com/phbrgnomo/newb.git
