@@ -10,3 +10,6 @@
 [submodule "portfolio-optimization-experiments"]
 	path = portfolio-optimization-experiments
 	url = https://github.com/phbrgnomo/portfolio-optimization-experiments
+[submodule "small-experiments"]
+	path = small-experiments
+	url = https://github.com/phbrgnomo/small-experiments
