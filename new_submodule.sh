@@ -8,7 +8,7 @@ read -p "Enter the name for the new GitHub repository: " github_repo
 read -p "Enter the name for the submodule folder: " submodule_folder
 
 # Create a new GitHub repository
-gh repo create $github_repo
+gh repo create $github_repo --public
 
 # Clone the new repository
 git clone https://github.com/$github_username/$github_repo.git
