@@ -14,7 +14,6 @@ gh repo create $github_repo --public
 git clone https://github.com/$github_username/$github_repo.git
 
 # Create a new folder and navigate into it
-mkdir $submodule_folder
 cd $submodule_folder
 
 # Initialize a new Git repository
@@ -27,7 +26,7 @@ git commit -m "Initial commit"
 
 # Push to the new repository
 git remote add origin https://github.com/$github_username/$github_repo.git
-git push -u origin master
+git push -u origin main
 
 # Go back to the main repository
 cd ..
@@ -38,4 +37,4 @@ git submodule add https://github.com/$github_username/$github_repo.git $submodul
 # Add and commit changes in the main repository
 git add .
 git commit -m "Add $submodule_folder as submodule"
-git push origin master  # or your branch name
+git push origin main  # or your branch name
