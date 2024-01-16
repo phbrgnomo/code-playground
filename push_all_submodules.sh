@@ -24,10 +24,10 @@ git submodule foreach "
     git commit -m \"$commit_message\"
 
     # Push changes
-    git push origin master  # or your branch name
+    git push origin main  # or your branch name
 "
 
 # Add and commit changes in the main repository
 git add .
 git commit -m "$commit_message"
-git push origin master  # or your branch name
+git push origin main  # or your branch name
