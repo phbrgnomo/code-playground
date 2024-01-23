@@ -35,5 +35,6 @@
     "python.analysis.typeCheckingMode": "basic",
     "python.analysis.autoImportCompletions": true,
     "ruff.importStrategy": "useBundled",
+    "docwriter.style": "Auto-detect",
 
 }
