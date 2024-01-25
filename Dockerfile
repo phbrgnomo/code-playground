@@ -3,7 +3,7 @@ FROM ubuntu:latest
 
 # Upgrade existing packages, Install additional packages, and clean cache 
 RUN apt-get update && \
-    apt-get install -y \
+    apt-get install -y --no-install-recommends \
         apt-utils \
         git \
         nano \

@@ -61,7 +61,7 @@ git submodule update --init --recursive
 ```
 
 > **Important Notes:**
-Always ensure submodules are initialized and updated before working on the project.
-Be aware of the submodules and their status when contributing changes to the main repository.
-For more detailed information on Git submodules, refer to the [Git Submodules documentation](https://git-scm.com/docs/git-submodule).
+> Always ensure submodules are initialized and updated before working on the project.
+> Be aware of the submodules and their status when contributing changes to the main repository.
+> For more detailed information on Git submodules, refer to the [Git Submodules documentation](https://git-scm.com/docs/git-submodule).
 
