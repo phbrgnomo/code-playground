@@ -1,5 +1,5 @@
 # Use the latest Ubuntu base image
-FROM python:3.13.0a2-slim
+FROM python:3.13.0a4-slim
 
 # Upgrade existing packages, Install additional packages, and clean cache 
 RUN apt-get update && \
